@@ -1,0 +1,67 @@
+Skill:
+  Name: Cây cối (Plants)
+  Id: 14
+  
+New words:
+  - Word: Aluang
+    Translation: Cây
+
+  - Word: Piar
+    Translation: Hoa
+
+  - Word: Ắk piar
+    Translation: Bông hoa
+
+  - Word: Bát
+    Translation: Cỏ
+    Also accepted:
+      - Rau
+
+  - Word: Aluang cha pasâi
+    Translation: Cây ăn quả
+
+  - Word: Aluang paryữl
+    Translation: Cây cảnh
+
+  - Word: Rô aluang
+    Translation: Vườn cây
+
+  - Word: Viang piar
+    Translation: Bồn hoa
+
+  - Word: Sarắng
+    Translation: Tre già
+
+  - Word: Pria
+    Translation: Cây rựa
+
+Phrases:
+  - Phrase: Chóh sarnóh
+    Translation: Trồng màu
+
+  - Phrase: Chuchóh sarnóh
+    Translation: Trồng trọt
+
+  - Phrase: Sima aluang
+    Translation: Trồng cây
+
+Mini-dictionary:
+  Bru:
+    - Aluang: cây
+    - Piar: hoa
+    - Ắk: quả/hạt
+    - Bát: cỏ/rau
+    - Rô: vườn
+    - Chóh: trồng
+    - Sima: trồng/cấy
+    - cha pasâi: ăn được
+    - paryữl: cảnh
+
+  Vietnamese:
+    - Cây: Aluang
+    - Hoa: Piar
+    - Cỏ: Bát
+    - Rau: Bát
+    - Vườn: Rô
+    - Trồng: Chóh, Sima
+

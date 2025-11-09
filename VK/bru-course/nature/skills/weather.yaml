@@ -1,0 +1,75 @@
+Skill:
+  Name: Thời tiết (Weather)
+  Id: 13
+  
+New words:
+  - Word: Palơang
+    Translation: Trời
+    Also accepted:
+      - Bầu trời
+
+  - Word: Mandang
+    Translation: Mặt trời
+
+  - Word: Mia
+    Translation: Mưa
+
+  - Word: Palơăng mia
+    Translation: Trời mưa
+
+  - Word: Phũak
+    Translation: Nắng
+
+  - Word: Kuyal
+    Translation: Gió
+
+  - Word: Phĩak
+    Translation: Khói
+
+  - Word: Kutâu
+    Translation: Nóng
+
+  - Word: Leng
+    Translation: Lạnh
+
+  - Word: Sangễt
+    Translation: Rét
+
+  - Word: Thớm
+    Translation: Ấm
+
+  - Word: Kutâu thớm
+    Translation: Nóng ẩm
+
+Phrases:
+  - Phrase: Palơăng mia
+    Translation: Trời mưa
+
+  - Phrase: Palơang phũak
+    Translation: Trời nắng
+
+  - Phrase: Klơan kuyal
+    Translation: Chắn gió
+
+Mini-dictionary:
+  Bru:
+    - Palơang: trời
+    - Mandang: mặt trời
+    - Mia: mưa
+    - Phũak: nắng
+    - Kuyal: gió
+    - Kutâu: nóng
+    - Leng: lạnh
+    - Thớm: ấm
+    - Klơan: chắn
+
+  Vietnamese:
+    - Trời: Palơang
+    - Mặt trời: Mandang
+    - Mưa: Mia
+    - Nắng: Phũak
+    - Gió: Kuyal
+    - Nóng: Kutâu
+    - Lạnh: Leng
+    - Ấm: Thớm
+

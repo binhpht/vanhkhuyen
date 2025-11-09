@@ -1,0 +1,93 @@
+Skill:
+  Name: Hoạt động hàng ngày (Daily Activities)
+  Id: 15
+  
+New words:
+  - Word: Pỡq
+    Translation: Đi
+
+  - Word: Chu
+    Translation: Về
+    Also accepted:
+      - Vào
+
+  - Word: Chu dống
+    Translation: Về nhà
+
+  - Word: Pỡq riên
+    Translation: Đi học
+
+  - Word: Pỡq tutáq
+    Translation: Đi làm
+
+  - Word: Bếq
+    Translation: Ngủ
+
+  - Word: Tayứng
+    Translation: Đứng lên
+
+  - Word: Taku
+    Translation: Ngồi xuống
+
+  - Word: Mpơi
+    Translation: Tắm
+
+  - Word: Cha dỗi
+    Translation: Ăn cơm
+
+  - Word: Tarưp
+    Translation: Sáng
+
+  - Word: Tơâng
+    Translation: Trưa
+
+  - Word: Ta bư
+    Translation: Chiều
+
+  - Word: Sadớu
+    Translation: Tối
+
+  - Word: Tangáy
+    Translation: Ngày
+
+  - Word: Tangáy nái
+    Translation: Hôm nay
+
+Phrases:
+  - Phrase: Tarưp pở học nơ
+    Translation: Sáng mai đi học nghe
+
+  - Phrase: Ta bư pở tả xa ray
+    Translation: Chiều đi làm rẫy
+
+  - Phrase: Chu dống
+    Translation: Về nhà
+
+  - Phrase: Pỡq lơăh dỗng
+    Translation: Đi chợ
+
+Mini-dictionary:
+  Bru:
+    - Pỡq: đi
+    - Chu: về/vào
+    - Bếq: ngủ
+    - Cha: ăn
+    - dỗi: cơm
+    - Tarưp: sáng
+    - Tơâng: trưa
+    - Ta bư: chiều
+    - Sadớu: tối
+    - Tangáy: ngày
+    - Dống: nhà
+    - nái: nay
+
+  Vietnamese:
+    - Đi: Pỡq
+    - Về: Chu
+    - Ngủ: Bếq
+    - Tắm: Mpơi
+    - Sáng: Tarưp
+    - Trưa: Tơâng
+    - Chiều: Ta bư
+    - Tối: Sadớu
+

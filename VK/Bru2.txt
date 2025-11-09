@@ -1,0 +1,2344 @@
+@Cô giáo /
+   	Avia karu 
+   Phiên âm: A - via cà rù
+   Ví dụ:    Bánh hỡ avia karu! 
+   Đọc:      Bánh hơ a - via cà rù
+   Nghĩa:    Chúng em chào cô ạ!
+
+@Chúng em /
+	Hếq sễm
+   Phiên âm: Hể-q xêm
+   Ví dụ: Bánh tê Hếq sễm
+   Đọc:   Bánh tê Hể - p xem
+   Nghĩa: Chào các em!	  
+
+@Chào  /
+        Bánh hỡ (tabỡp)
+   Phiên âm: Bánh - hơ (ta-bơp)
+   Ví dụ: Bánh hỡ Avia karu
+   Đọc:   Bánh hơ a-via cà -rù
+   Nghĩa: Chúng em chào cô ạ!
+   
+@Đứng lên /
+     Tayứng
+   Phiên âm: Ta-dừng
+   Ví dụ: Ka lưp tayứng!
+   Đọc:   Calưp ta-dừng
+   Nghĩa: Cả lớp đướng dậy!
+@Ai /	
+	Nơau
+   Phiên âm: Nao
+   Ví dụ: Kứq Ramứh la TaHan. Nay la nơau?
+   Đọc:   Cử-q ra-mứ-h la TaHan. Nay la nao?
+   Nghĩa: Tôi tên là TaHan. Đây là ai?
+@Ấm /	
+	Thớm
+@Ấm no /	
+	Pasâi sa-âm
+@Ăn cơm /	
+	Cha dỗi
+Ví dụ:  T rợp cha mầm pở học nơ
+Dịch nghĩa: Sáng ăn xong là đi học
+Ví dụ:  ít ta ngan cha đôi
+Dịch nghĩa: Lấy bát để ăn cơm
+@lễ ăn cơm mới /	
+	Cha dỗi saréh
+@Ăn cơm mới /	
+	Cha dỗi saréh
+@Ăn ở /	
+	Ỡt cha
+@Anh /	
+	Ai
+@Anh dũng /	
+	Khếh karianh
+@Kiên cường /	
+	Karianh
+@Anh dũng, /	
+	Karianh
+@Anh em /	
+	Sễm ai
+@Anh hùng /	
+	Kũai karianh o
+@Anh trai /	
+	Ai ruaiq
+@Anh, chị /	
+	Án
+@Anh, chị… /	
+	Mơây
+@Áo /
+	Au
+@Ao cá /	
+	Amống sĩaq
+@Áo dài /	
+	Au tuar
+@Áo nữ /	
+	Ayơăh
+@Áo sơ mi /	
+	Au atĩ tuang
+@Áo vét /	
+	Au vễt
+@Ba ba /	
+	Tapa
+@Bà con xóm làng /	
+	Kũai vil
+@Bác /	
+	Bak
+@Bác gái /	
+	Bak kán
+@Bác ruột /	
+	Bak ruaiq
+@Bác sĩ /	
+	Bak síq
+Phiên âm: Bac si-q
+
+@Bác trai /	
+	Bak kũnh
+@Bài trừ /	
+	Kliah táh
+@Bàn /	
+	Pian liar
+@Bản /	
+	Vil
+@Bận /	
+	Miaq
+@Bàn bạc /	
+	Sarhông
+@Bản chúng tôi /	
+	Vil hếq
+@Nghèo khó /	
+	Ắk kadĩt
+@Bần cùng,  /	
+	Ắk kadĩt
+@Bàn giao /	
+	Pachúh
+@Bản lĩnh /	
+	Mứt kơang
+@Bản ruộng /	
+	Vil Ruang
+@Bản Sa Vi /	
+	Vil Sa Vi
+@Bằng /
+	Na
+@Bằng phẳng /	
+	Tapứn
+@Bằng xung điện /	
+	Tơâq dien
+@Bao giờ /	
+	Lứq nnắq
+@Bao nhiêu /	
+	Máhléq
+@Bảo vệ /	
+	Kariaq
+    Phiên âm: Cà ria-q
+
+@Bầu /	
+	Aluôi
+@Bầu lên /	
+	Chóh achỗn
+@Bay /	
+	Sapár
+@Bây giờ /	
+	Sanua
+@Bây giờ đây /	
+	Sanua
+@Bên hông /	
+	Aveh
+@Bên nhau /	
+	Cheq parnơi
+@Bệnh /	
+	Mprơih
+@Bệnh viện /	
+	Dống palai
+@Bếp /	
+	Tapéh
+@Bí /	
+	Kadớk
+@Bị /	
+	Chũl
+@Bị /	
+	Tớt
+@Bia đá /	
+	Ngôl tamáu
+@Biển /	
+	Dỡq lứn
+@Biên cương /	
+	Ralán kuruang
+@Biển Đông /	
+	Dỡq lứn
+@Biết /
+	Dáng
+@Biết gắn kết /	
+	Dáng mpruam parnơi
+@Bình đẵng /	
+	Tarlĩ li
+@Bình thường /	
+	Mantơat tiaq
+@Bình yên /	
+	Ra lính
+@Bò /	
+	Ntroăq
+@Bố /	
+	Mpơaq
+@Bờ /	
+	Pứh
+@Bo bo /	
+	Sapua tor
+@Bỏ dần /	
+	Táh la-ữt
+@Bộ mặt /
+	Rup riang
+@Bó sát /
+	Kachơap
+@Bỏ vào /
+	Chóq
+@Bốc lên /
+	Yuốr
+@Bói toán /
+	Mữl pol
+@Bồn hoa /
+	Viang piar
+@Bông /	
+	Ắk piar
+@Bông tai /
+	Tang
+@Bừa bãi /
+	Tampríng
+@Bưởi /	
+	Nnhăq băng
+@Bút chì /	
+	Sanĩk chol
+@Bút mực /
+	Sanĩk santứm
+@Bưu điện /
+	Bữu dien
+@Cá /	
+	Sĩaq
+@Cà /	
+	Ngkứng
+@Cá chình /	
+	Sĩaq ching
+@Cả ngày /	
+	Dếh tangáy
+@Các anh /
+	Mũ ai
+@Các em /
+	Máh mũ sễm
+@Cái bọc /
+	Sỗh
+@Cái giỏ /
+	Adữ
+@Cái gùi /	
+	Achoiq
+@Cam /	
+	Nnhăq kam
+@Cảm ơn /
+	Sa - ỡn
+Phiên âm: Xà-ơn
+
+@Căm pu chia /
+	Kám pu chia
+@Căm thù /	
+	Par – ũal
+@Cần /	
+	Yok
+@Cạn /	
+	Sarễt
+@Cán bộ /
+	Kan bỗ
+@Cần cù /
+	Lachĩp lachũp
+@siêng năng /
+	Sarâng
+@Cần cù /
+	Sarâng
+@Cần thiết /
+	Kơâp nhuat
+@Càng /	
+	La-ữt
+@Cánh  /
+	Chua
+@Cảnh giác /
+	Rơak
+@Cánh nói /
+	Chua tatỡng
+@Cao /
+	Sarỡih
+@Cạp lụa /	
+	Loap dam
+@Cặp sách /	
+	Kupâu sarasq
+@Câu cá /
+
+	Tabáih sĩaq
+@Câu chuyện /
+	Kansái Nsũar
+@Cày ải /	
+	Kái palắh
+@Cây ăn quả /
+	Aluang cha pasâi
+@Cây cảnh /
+	Aluang paryữl
+@Cấy lúa /	
+	Sabát saro
+@Cây rựa /	
+	Pria
+@Cấy, trồng /	
+	Sima
+@Chắc chắn /	
+	Pakái
+@Chăm chỉ /	
+	Dốk dũi
+@Chậm phát triển /	
+	Kro liêi
+@Chăm sóc /	
+	Alĩ alái
+@Chăn /	
+	Bán
+@Chắn gió /	
+	Klơan kuyal
+@Chan hòa /	
+	Sarluỗ
+@Chân lý /	
+	Ắk karâi
+@Chăn nuôi /	
+	Bán mantán
+@Chân tình /	
+	Lanbỡ bỡ
+@Chanh /	
+	Nnhăq chễng
+@Chào /	
+	Karlỡih (Tabỡp)
+      Phiên âm: Car-lơi-h  (ta-bơp)
+@Chào, chào nhé /
+	Bành tê nơ
+@Chào, xin chào /
+	Bánh tê
+@Chặt chẻ /
+	Kachơap o
+@Chất độc tố /
+	Krơng bũl
+@Chặt phá /	
+	Pơâiq talốh
+@Chặt phá /	
+	Tal talốh
+@Cháu (Cô, gì xưng) /	
+	Ra mon
+@Cháu (Ông bà xưng) /
+	Châu
+@Cháy lan /
+	Trăh
+@Chết đi sống lại /	
+	Kuchĩt tuôiq
+@Chị /	
+	Ỡi
+@Chị gái /	
+	Ỡi ruaiq
+@Chi phối /	
+	Kalơam
+@Chia /
+	Tam pễq
+@Chia đều /	
+	Tampễq li
+@Chiếc /
+	Lám
+@Chiếc áo /
+	Plơah
+@Chiếc khăn /	
+	Plơah khán
+@Chiến đấu, kháng chiến /
+	Rachứl
+@Chiến tranh /
+	Yúk
+@Chiêng /	
+	Parnăh
+@Chiều /
+	Ta bư
+Ví dụ: Ta bư pở tả xa ray
+Dịch nghĩa: Chiều đi làm rẫy
+@Chín /
+	Chĩn
+@Chính là /	
+	Lứq samơât
+@Cho /	
+	Yỗn
+@Chổ dựa /	
+	Raku
+@Chỗ nào /	
+	Bon léq
+@Chọn đất làm rẩy /
+	Chơm sarái
+@Chọn lấy /
+	Rươh ĩt
+@Chôn vùi /	
+	Kalứp
+@Chống chọi /	
+	Raklơaq
+@Chốt bếp lửa /	
+	Chũt tapéh
+@Chú /
+	Anhi
+@Chủ nhật /	
+	Tangáy ko
+@Chủ tịch nước /	
+	Sốt ncháu kuruang
+@Chữ viết /	
+	Chĩk saráq
+@Chưa  /	
+	Yũah
+@Chưa hiểu /	
+	Yũah dáng
+@Chui ra /	
+	Chũr lơah
+@Chung một /	
+	Parchứm muôi
+@Chúng ta /	
+	Hái
+@Chung về /	
+	Parchưm
+@Chuối /	
+	Priat
+@Chuồng /	
+	Kuaq mantán
+@Chuồng gà /	
+	Kuaq ntruôi
+@Chuồng lợn /
+	Kuaq alik
+@Chương trình /	
+	Kansâi ranáq
+@Chuyện cổ tích /
+	Nsũar pưn
+@Có /	
+	Bữn
+@Cờ bạc /	
+	Radéng
+@Cô dâu /	
+	Niang chám dống
+@Cô gái /	
+	Kumũr
+@Cố gắng /	
+	Katóng
+@Có giá trị /	
+	Bữn kia
+@Cô giáo /	
+	Avia karu
+@Có hiệu quả kinh tế /	
+	Tớt pơaih sanốk put
+@Có năng lực /	
+	Taráng o
+@Cơ quan /	
+	Dống ranáq
+@Cơ sở cách mạng /
+	Parlỗ kách mang
+@Có thể /	
+	Lứq pai
+@Có văn hóa /	
+	Bữn phễp rit
+@Cô, Các cô /	
+	Avia/ Máh mũ avia
+@Cội nguồn /	
+	Avial
+@Còn /	
+	Nơâng
+@Con dâu /	
+	Kumán
+@Con đầu /
+	Kon klúng
+@Con gà /
+	Ntruôi
+@Con gái /	
+	Kon mansễm
+@Con hoãng /
+	Pỗih
+@Con lợn /
+	Alik
+@Con nai /
+	Yỡt
+@Con rể /
+	Partiam
+@Con trai /
+	Kon samiang
+@Con trâu /	
+	Tariak
+@Cong cong /	
+	Kơok kơok
+@Công cộng (xã hội) /
+	Rapúk
+@Công dân /	
+	Kũai prơaq
+@Cộng đồng /
+	Talúq
+@Cộng đồng /	
+	Talúq kũai
+@Cống hiến /
+	Alơăh rêng
+@Công lao to lớn /
+	Kóng rêng put
+@Công sức /	
+	Rêng rangứh
+@Công việc sản xuất /	
+R	anáq tutáq
+@Của /
+	Hán
+@Của anh /	
+	Hán ai
+@Của anh ấy /	
+	Hán ai ki
+@Của chúng tôi /
+	Hán hếq
+@Của họ /
+	Hán alơâi
+@Cửa khẩu /	
+	Panớh ralán kuruang
+@Của tôi /	
+	Hán kứq
+@Cục tẩy /	
+	Kulỗiq chut
+@Củi - lửa /
+	Ũih
+@Cúng /
+	Tơăng
+@Cúng giỗ /
+	Tơăng tứk
+@Cùng nhau /
+	Mpruam
+@Cúng tế /
+	Sangtúk
+@Cuốc /
+	Sakơoh
+@Cuộc /	
+Pang
+@Cuộc cánh mạng /
+	Ra náq kách mang
+@Cuộc sống /
+	Pang ỡt cha
+@Cuối /
+	Parsốt
+@Cưới /	
+	Rabễng
+@Cười /
+	Kacháng
+@Cưới hỏi /	
+	Rakơâiq ra-ĩt
+@Cướp nước, xâm lược /
+	Lôp kuruang
+@Cứu nước /
+	Ayắq kuruang
+@Đã có gia đình /
+	Kỡt dống
+@Dài /	
+	Kuti
+@Đakrông /	
+	Dakrong
+@Đầm ấm /
+	Ranhêq ranhuan
+@Điểm danh /
+	Ruat Ramứh
+@Đám khơi /
+	Kỗl
+@Đám rước dâu /
+	Pang rakơâiq
+@Dân bản /	
+	Kũai dống vil
+@Dân bản /	
+	Prơai vil
+@Dần dần /
+	La-ữt
+@Dân tộc /	
+Sâu kũai
+@Đang /
+	Ntôm
+@Đảng cộng sản /
+	Dang kóng san
+@Dáng người /
+	Riang kũai
+@Đánh /
+	Tơânh
+Ví dụ:  Mày tabơn o pỉ mày Tơânh
+Dịch nghĩa: Em không tốt bị mẹ đánh
+@Đánh  /	
+	Chưl
+@Đánh (phá) /
+	Talốh
+@Đánh bắt /
+	Sarbữn
+@Đánh bắt /	
+	Táq kỗp
+Ví dụ: Em A là học công an hắn Táq kỗp mày
+Dịch nghĩa: Em nhác học công an bắt mày
+@Đánh pháp /	
+	Chứl tới
+@Đánh thắng /	
+	Chứl riap
+@Đào /	
+	Píq
+@Đạo đức /	
+	Mứt pahỡm
+@Đắp /	
+	Puôn
+@Đáp ứng /
+	Pĩêiq chua
+@Đất /
+	Kutễq
+@Đất nước /
+	Dống kuruang
+@Đất nước /
+	Kuruang kutễq
+@Đặt tên /
+	Amứh
+@Đất thấp /
+	Kutễq tadớp
+@Đau /	
+     Sâng a-ĩ
+@Đậu /	
+      Satong
+@Đầu bản /
+	Ramăh vil
+@Đau dạ dày /
+	A-ĩ ỗq
+@Đầu nguồn /
+	Avial tũm
+@Đau ốm /
+	A-ĩ takóh
+@Đau tai /	
+         A-ĩ kutũr
+@Đau tim /	
+          A-ĩ kơâl pahỡm
+@Dày /	
+         Kubớn
+@Đầy /	
+	Pơânh
+@Đầy đủ /
+	Túk khám
+@Đây, này /
+	Nái
+@Dê /	
+	Mbễq
+@Để /	
+	Doq
+@Đẻ con /	
+
+	Sễt
+@Dể dàng /
+	Khễ khán
+@Dễ nhận ra /	
+	Dáng chái
+@Đế quốc lớn /	
+	Chơak put
+@Đẻ ra /
+	Sễt lơăh
+@Đen /
+	Kũm
+@Đến khi /
+	Tơâq
+@Đến vụ /	
+	Tơâq saro
+@Đẹp /
+	O
+@Đẹp trai /
+	Tamơam o riang
+@Dệt vải /
+	Tanh prê
+@Đều đặn /
+	Li mantái
+@Đi /	
+	Pỡq
+@Đi bộ /
+	Pỡq ayững
+@Đi chợ /
+	Lơăh dỗng
+@Đi chợ /
+	Pỡq lơah dỗng
+@Đi chơi /
+	Pỡq lơiq
+@Đi công tác /
+	Pỡq ranáq rapúk
+@Đi dạo /
+	Tayáh
+@Dị đoan /
+	Tỡ lứq
+@Đi học /
+	Pỡq riên
+@Đi làm /
+	Pỡq tutáq
+@Đi lên /
+	Achỗn
+@Đi rẫy /
+	Pỡq chu sarái
+@Đi săn /
+	Pỡq rurơăh
+@Đi theo /
+	Puai
+@Địa vị cao /
+	Táq put
+@Địch bắt /
+	Chơak kỗp
+@Điềm báo /	
+	Parliang
+@Điện /
+	Diên
+@Điều hành /	
+Tarĩ
+@Điều hành tốt /
+	Tarĩ hũaiq
+@Điều hay /
+	Ắk o
+@Định cư /	
+	Pin raku
+@Đính thêm /
+	Téh chơam
+@Đính vào /	
+	Téh
+@Do /
+	Kỗ
+@Đỏ /	
+	Kusáu
+@Đỗ đạt /
+	Pơon riên
+@Đỏ lửa /
+	Blữ
+@Đồ dùng học tập /
+	Krơng saráp riên saráp
+@Đồ sộ /	
+	Chơqkrơq
+@Dò theo lưới /	
+	Poiq aliêiq
+@Đoàn kết /	
+	Saryóq
+@Dóc đứng /	
+	Leh lứk
+@Dọc theo /	
+	Mpễr
+@Đồi /	
+	Dũal
+@Đổi mới /	
+	Palât tamái
+@Đỗi mới, đổi thay /
+	Palớt tamái
+@Đời này /	
+	Thũal ki
+@Đói nghèo /
+	Panhiêih kadĩt
+@Đón /	
+	Kơâiq rơap
+@Đốn cây /
+	Tamư
+@Đồn công an /
+	Láng raku kóng an
+@Dồn ép /
+	Nơân viq
+@Don rẩy /
+	Yaram
+@Dọn sạch /
+	Rasa
+@Đông /
+	Klứng
+@Đồng bào, nhân dân /
+	Prơai bau
+@Đồng bóng  /
+	Nơâiq mư
+@Đông đàn /
+	Puprứk
+@Dòng họ /
+	Mũ
+@Dòng họ /	
+	Tăng no
+@Động lực /	
+	Kơâl rangứh
+@Đồng phục /	
+	Tampắk mu rơâp
+@Động tranh /
+	Kóh pláng
+@Đốt rẩy /
+	Chăng
+@Đu đủ /	
+	Ahống
+@Đủ thứ /
+	Túk ramứh
+@Dứa /	
+	Chữơq
+@Đưa con /	
+	Dững kon
+@Đưa đến /	
+	Dững tơâq
+@Đưa dòng nước sạch /	
+	Yớt dỡq bráh
+@Đưa ra /	
+	Apăng
+@Dựa vào /
+	Kapua
+@Đưa vào /	
+	Amut
+@Đừng cho /	
+	Chỗi yỗn
+@Đứng lên, giáp mặt /
+	Totáng
+@Đừng nhóm lửa /
+	Chôi nhúq ũih
+@Đứng lên  /
+        Tayứng
+Phiên âm: Ta-dừng
+Ví dụ: Ka lup tayứng!
+Đọc: Ca lưp ta dừng!
+Nghĩa: Cả lớp đứng dậy
+
+@Được /
+	Têq
+@Được may /	
+N	ơau ỹih
+@Được mùa /
+	Bữn dỗi
+@Được mùa lúa ruộng /	
+	Pasâi dỗi nia
+@Dưới /
+	Pưn
+@Đuổi (lùa) /
+	Poq
+@Dưới sàn /	
+	Pưn kurũm
+@Dưới sự (theo) /
+	Tun
+@Đường /	
+	Rana
+@Duyên dáng /	
+	Nêuq nia
+@Em gái /	
+	Amuaq
+@Em /	
+	A-ễm
+@Các em /	
+	Mũ sễm
+    Phiên âm: Mu xem 
+@Em /
+	A-ễm
+    Phiên âm: Ã - em 
+@Gắn bó /	
+	Tớt kiat
+@Gầy /	Oiq
+@Gây dựng /	
+	Atứng ayuôr
+@Gây gỗ (Gây rối) /	
+	Parkơâl
+@Gây nghiện /
+	Pơaih har
+@Ghế /
+	Pian raku
+@Ghi nhớ /
+	Anhữ
+@Ghi tên /
+	Chĩk ramứk
+@Gì , cái gì /
+	Ntrớu
+@Giá /	
+	Chiaq
+@Già /
+	Thâu
+@Giá cả /
+	Chia chô
+@Gia đình /
+	Dống sũ
+@Gia đình tôi /
+	Dống kứq
+@Gìa làng /
+	Thâu vil
+@Gia phong /
+	Kanot
+@Gia súc /	
+	Mantán
+@Giá trị /	
+	Kia
+@Giặc /
+	Chơak
+@Giải quyết tục lệ /
+	Sang tễng
+@Giăng lưới /	
+	Ruai aliêiq
+@Giăng lưới /
+	Yơang aliêiq
+@Giành độc lập /
+	Bữn kuruang
+@Giành lấy, giành lại, giải phóng /
+	Sarbữn
+@Giáo dục /	
+	Sáng son
+@Giao liên /	
+	Ayông rana
+@Giáo viên /
+	Karu ariên
+Phiên âm: Cà-rù a-riên
+
+@Giáp giới /	
+	Partĩng
+@Giặt /
+	Pơoh
+@Giày /
+	Sor ayững
+@Giấy khai sinh /
+	Saráq kanỡt
+@Gieo giống /
+	Apăng kuplốq
+@Gió /
+	Kuyal
+@Giờ /	
+	Yơ
+@Giỏi lý luận /
+	Chiang parnai
+@Giới nam /	
+	Sa miang
+@Giống mới /
+	Kuplốp tamái
+@Giữ (gìn) /	
+	Pêng
+@Giữa /
+	Katâm
+@Giúp đỡ /	
+C	huai
+@Giúp đỡ, giúp đỡ nhau /	
+	Rachuai
+@Gỡ cá /	
+	Lêk sĩaq
+@Gốc cụt /	
+	Rangứh
+@Gom lại /	
+	Pachứm
+@Góp phần /	
+	Pachúng rêng
+@Góp sức, chung sức /
+	Parỗm rêng
+@Gương mặt /	
+	Riang rup
+@Hải quan /	
+	Haiq kũan
+@Hàng /	
+	Lansor
+@Hàng ngày /
+	Ku rangáy
+@Hàng rào /
+	Kảntruang
+@Hàng trăm /
+	Tơâq kulám
+@Hạnh phúc /
+	Ralíng bốn pian
+@Hát đi sim /
+	Ũat langơp
+@Hay quá /
+	Krơak lứq
+@Hết nóng /
+	Mơâm kutâu
+@Hết thảy /
+	Nhéq
+@Hiếm /
+	Nhéq dớt
+@Hiền hậu /
+	Mantơat mantia
+@Hiền thảo /
+	Trĩh yám
+@Hiến thêm /
+	Yỗn miat ễn
+@Hiểu được /
+	Sapơang
+@Thông suốt /
+	Sapơang
+@Hiếu học /	
+	Sarắng kót riên
+@Hình dáng /
+	Rơâp
+@Hình thể /
+	Rup
+@Hít /	
+	Kahĩt
+@Ho /	
+	Nghăk
+@Hố /	
+	Prúng
+@Họ /	
+	Alơâi
+@Họ /
+	Mũ
+@Họ /	
+	Tăng
+@Họ mình /	
+	Mũ bữm
+@Hoa văn /	
+	Pachĩr
+@Hoạn nạn /
+	Karơăq kariat
+@Học giỏi /
+	Riên rangơaiq
+@Hỏi /
+	Blớh
+@Hội nhập /
+	Sarlũô mut
+@Hồi sinh /
+	Tamơong môih
+@Hỏi thăm /
+	Karhanh
+@Hôm nay /
+	Pêl nái
+@Hôm nay /
+	Tangáy nái
+@Hơn /
+	Klữi
+@Hoạt động học tập  /
+	Rayơaih ranáq riên saráq
+@Hồng /
+	Kusáu ku-ỗk
+@Họp (sinh hoạt) /
+	Sarhống
+@Hư hỏng, hư hại /
+	Rúng
+@Hướng (về) /	
+	Chua
+@Hướng dẫn /	
+	Ayông
+@Hút /
+	Nguaiq
+@Huyện /	
+	Hiên
+@Ích lợi /
+	Ăk póq
+@Ít /	
+	Bĩq
+@Kê /	
+	Payuak
+@Kể chuyện /	
+	Nsũar
+@Kế hoạch /	
+	Kasái ranáq
+@Kế hoạch hóa /	
+	Ranáq kansái
+@Kế hoạch hóa gia đình /
+	Mangkra sễt
+@Kẻ thù /
+	Kuai par-ũan
+@Kém /	
+	Sartut
+@Kèn /	
+	Kên
+@Kèn bằng ống tre /
+	Khlũi
+@Kéo lên /
+	Rúh
+@Kêu /	
+	Bữr
+@Khá giả /	
+	Bữn doq
+@Khác /	
+	Kanăh
+@Khai giảng /
+	Dóh pang ariên
+@Khai hoang /
+	Kơăk kutễq
+@Khai thác /
+	Rurơah
+@Khám /	
+	Tabal nhêng
+@Khăn quàng đỏ /
+	Khán ngkuang ku sau
+@Khắp đất nước /
+	Tuô kuruang
+@Khắp nơi /
+	Pláh
+@Khắp nơi /
+	Tuô bon
+@Khe Sanh /
+	Saránh
+@Khi /
+	Ralỗm
+@Khí hậu /
+	Yuang phũak mia
+@Khí hậu nhiệt đới /	
+	Palơang phũak mia
+@Khô /	
+	Sa-ỡt
+@Khố /
+	Sarlai
+@Khó khăn /
+	Túh kơat
+@Khoa học /
+	Ắk rangơaiq
+@Khoai, sắn /
+	Pơong
+@Khoảng /
+	Karyiau
+@Khoảng /
+	Sâm
+@Khỏe /
+	Bánh
+@Khỏe mạnh /
+	Bánh lơah
+@Khỏe mạnh /	
+	Bánh sũanh
+@Khói /	
+	Phĩak
+@Khơi /
+	Chor
+@Khỏi bệnh /
+	Rưăh Mprơih
+@Khơi dòng nước /	
+	Pachong dỡq
+@Không /	
+	Tỡ
+@Không bao giờ /	
+	Tỡ nai
+@Không biết /	
+	Ắq dáng
+@Không đúng /	
+	Tỡ karâi
+@Không học /	
+	Ắq riên
+@Không ngừng /	
+	Tỡ sităh
+@Kiến thức /	
+	Rangứh kũai
+@Kiên trung /
+	Tưt bưt
+@Kinh tế /
+	Sannốk ntữn
+@Kinh tế /	
+	Sanốk
+@Kinh tế  /	
+	Sanốh put
+@Kính yêu /
+	Kiat pasếq
+@Lai áo /
+	Kantưn au
+@Lái xe  /
+	Katánh plỡ raku lúh
+@Làm được /	
+	Táq têq
+@Làm giấy tờ /
+	Táq saráq
+@Làm ngay /
+	Táq tơâp
+@Làm nhiểm /
+	Táq tapơaih
+@Làm quen /
+    Táq sarkơal
+@Làm ra /	
+	Táq lơăh
+@Làm rẫy /	
+	Táq sarái
+@Làm tục lễ /
+	Táq rit
+@Làm tục lệ /
+	Sambũaiq
+@Lan tỏa /	
+	Lavia
+@Lặn xuống /
+	Ngêt
+@Làng /
+	Viang
+@Lắng nghe /
+	Tamứng
+@Lạnh /
+	Leng
+@Lãnh đạo /	
+	Tayũar
+@Lãnh đạo /	
+	Tếk tayũar
+@Lãnh tụ vĩ đại /
+	Sốt put
+@Lào /	
+	Liau
+@Lao động /	
+	Tutáq ranáq
+@Lập ấp /	
+	Chóh viang put
+@Lâu /	
+	Dũnh
+@Lâu đời /	
+	Tễ mbắq
+@Lâu lắm rồi /
+	Dũnh lứq chơ
+@Lấy tiền /
+	Ĩt práq
+@Lễ đám giỗ /
+	Rapữp
+@Lế hội /
+	Kỗl rabễng
+@Lễ hội /
+	Sang put
+@Lề lối /
+	Manták
+@Lễ phong thần /
+	Rapữp
+@Lễ tế /	
+	Tapứk
+@Lên /	
+	Chỗn
+@Lên /	
+	Yuôr
+@Lên bờ /	
+	Chốn kóh
+@Lên núi /
+	Chu kóh
+@Lên trao /
+	Tarỗng
+@Lênh đênh /
+	Kukhlỗi
+@Liên hoàn /
+	Ranáq toi
+@Liền một dải /
+	Langhoiq
+@Liên tiếp /
+	To tĩk
+@Liên tục /
+	Tỡ sapỡi
+@Lo /	
+	Parngíh
+@Lô vườn /	
+	Lahuô rô
+@Lôi kéo /
+	Rati
+@Lợi thế /
+	Póq sa-ữi
+@Lớn lên /
+	Tơar achỗn
+@Lợn rừng /
+	Sako
+@Long trọng /
+	Alíh sữp
+@Lớp mầm non /
+	Lữp pluai
+@Lũ giặc /	
+	Tỗp chơak
+@Luật tục /
+	Phễp rit
+@Luật tục /
+	Rit kuang
+@Luật tục /
+	Rit phễp
+@Luôn luôn /
+	Mantái
+@Lương thực /
+	Krơng sana
+@Lưu truyền /
+	Táh doq
+@Ma /
+	Kumuiq
+@Mà /	
+	Mắq
+@Ma quỷ /
+	Panơah alơâng
+@Mắc phải /
+	Tớt
+@Mắc vào /
+	Chuat
+@Mặc vào /
+	Sớp
+@Mãi /
+	Ník
+@Mai sau /	
+	Nỡ ra
+@Mang /
+	Kliễu
+@Mang đi /	
+	Dững
+@Mang vào /
+	Sakât
+@Mang về /
+	Dững a chu
+@Mạnh dạn /	
+	Mứt kơang
+@Mập /	
+	Nứn
+@Mặt /	
+	Miêiq
+@Mất hướng /
+	Pứt angia
+@Mất mát /	
+	Pứt
+@Mặt trời /	
+	Mandang
+@Màu /	Ẽng
+@Màu mỡ /	
+	Pahuôr
+@Mẫu mực /	
+	Táq ngôl
+@Màu sắc /	
+	Ẽng ralương
+@Mấy  /	
+	Máh
+@Mấy (bao nhiêu) /
+	Sếq
+@Mẹ /	
+	Mpiq
+@Mê tín/
+	Sa-âm kuko
+@mê tín dị đoan /
+	Sa-âm kuko
+@Mến, quý mến /	
+	Kiat
+@Quý mến /	
+	Kiat
+@Mét /	
+	Mễt
+@Miễn phí /	
+	Chỗi práq
+@Miền trung /	
+	Mpứng kunuang
+@Miệng nói /	
+	Bỗq pai
+@Miệt mài /
+	Ngit nguôi
+@Minh chứng /
+	Tếk rup
+@Mít /
+	Panáih
+@Mở /	
+	Pớh
+@Mở đất /
+	Pớh ranáq
+@Mới /	
+	Mbỡiq
+@Mới /	
+	Tamái
+@Mới có thể /
+	Nơâq
+@Mọi người /	
+	Ku náq
+@Môi trường /
+	Tanah ỡt cha
+@Mỏng /	
+	Kada
+@Một cây /	
+	Mu treh
+@Một chiều /
+	Muhũat
+@Một loại áo nữ /
+	Sanún
+@Một lòng /	
+	Muôi púng
+@Một người /
+	Mu náq
+@Một nữa /
+	Muôi saráh
+@Mũ /	
+	Muốk
+@Mua /	
+	Chỡng
+@Mùa /	
+	Katữ
+@Mưa /	
+	Mia
+@Mua bán /
+	Chếq chỡng
+@Mũi cao /
+	Múh dỗih
+@Mùi cơm /
+	Hũl dỗi
+@Mũi thấp /
+	Múh sapễt
+@Mừng /
+	Ỡnh
+@Mừng chào đời /
+	Mơng mơat
+@Muốn /
+	Ễq
+@Muôn đời /
+	Ku thũal
+@Mỹ  /	
+	Míq
+@Nách áo /	
+	Khlap
+@Năm  /	
+	Kumo
+@Năm học /	
+	Kumo ariên
+@Năm nay /	
+	Kumo nái
+@Nắng /	
+	Phũak
+@Nặng /	
+	Ntâng
+@Năng động /
+	Sarlăng rarnớm
+@Nào /	
+	Léq
+@Nâu /
+	Pốk
+@Nền dưới sàn /
+	Kutũm
+@Nền sản xuất /
+	Kơâl ranáq
+@Nếp sống /
+	Pong ớt cha
+@Nét đẹp /
+	Ắk o
+@Ngạc nhiên /	
+	Blak mơat
+@Ngắn /
+	Kakéh
+@Ngày càng /	
+	La-ữt tangáy
+@Ngày mai /
+	Tangáy Parmỡ
+@Ngay ngắn /	
+	Li
+@Ngày Nhà giáo Việt Nam /	
+	Tangáy chơot kuru Việt Nam
+@Ngày Quốc tế phụ nữ /
+	Tangáy mansễm tapưq kutễq 
+@Ngày sinh nhật /
+	Tangáy palơoh mơat
+@Nghe lời /	
+	Tamứng santoiq
+@Nghề nghiệp /
+	Ranáq atĩ
+@Nghèo khó /
+	Ắk kadĩt
+@Nghét /	
+	Kêt
+@Nghĩ /
+	Ralu
+@Nghị lực /
+	Rêng – ran ngứh
+@Nghi ngút /
+	La-ũt lavêq
+@Nghĩa vụ /
+	Ắk pahũan
+@Nghĩa vụ /
+	Mpỗl ranáq
+@Ngô /	
+	Sapua
+@Ngộ nhận /	
+	Tếng lơ
+@Ngoan /	
+	Sakún
+@Ngồi xuống /	
+       Taku
+Phiên âm: Tà-cù
+Ví dụ: Mũ sễm tàku
+Đọc: Mu xem tà-cù
+Nghĩa: Các em ngồi xuống
+@Ngũ /	
+	Bếq
+@Ngực /	
+	Ta tia
+@Người /	
+	Kũai
+@Người đứng đầu /
+	Sốt
+@Người già /
+	Kũai thâu
+@Người hướng dẫn /	
+	Kũai ayông
+@Người kinh /	
+	Kũai yuan
+
+@Người lao động /
+	Kũai ranáq
+@Người lớn tuổi /
+	Kũai karsai
+@Người xấu /	
+	Kũai ngêu
+@Nguồn gốc /	
+	Kơâl
+@Nguồn gốc /	
+	Kơâl kỗk
+@Nguồn suối /	
+	Abók tũm
+@Nguồn tiền lương /	
+	Dỡq práq lương
+@Nguy hiểm /	
+	Kĩu karơăq
+@Nhà gái /	
+	Dống kuya
+@Nhà nước (nước nhà) /
+	Dống kuruang
+@Nhà thư viện /
+	Dống doq saráq
+@Nhà trai /
+	Dống khỡi
+@Nhắc nhở /
+	Anhơak
+@Nhãn /
+	Kupễh yăh
+@Nhân khẩu /
+	Tỗ kũai
+@Nhận thức /
+	Sarnớm
+@Nhanh nhẹn /
+	Sanghóiq
+@Nhất trí /
+	Parkhán
+@Nhảy múa /
+	Puan sarai
+@Nhẹ /	Nghễl
+@Nhé (từ đệm) /
+	Nơ
+
+@Nhiều /	
+	Sa - ữi
+@Nhờ /	Kapua
+@Nhỏ (tiểu) /
+	Kakớt
+@Nhớ mãi /	
+	Ayữ ník
+@Nhớ ơn /	
+	Sa-ỡn
+@Nhớ, thương nhớ /
+	Sayữ
+@Nhức mắt /	
+	A-ĩ mơat
+@Những khi /	
+	Trỗ léq
+@Nhuộm /	
+	Yớm
+@Nợ /	
+	Tu
+@Nó  /	
+	Án
+@No ấm /	
+	Pasâi sa-âm
+@Nỗ lực  /
+	Katóng
+@Tích cực /
+	Katóng
+@Nô nức /	
+	Chơon
+@Nở ra /	
+	Pháiq
+@Nói /	
+	Tatỡng
+@Nổi bật /	
+	Sững sĩang
+@Nơi dân cư /	
+	Ntỡt prơai bau
+@Nơi đây /	
+	Bon nái
+@Nội ngoại /
+	Khỡi kuya
+@Nơi ở /	
+	Bon ỡt
+@Nóng /
+	Kutâu
+@Nóng ẩm /	
+	Kutâu thớm
+@Nông dân /
+	Kũai ranáq dống sarái
+@Nông lịch /
+	Kót ranáq
+@Nữa /
+	Hỡ
+@Nữa /
+	Nơâng
+@Núi cao /
+	Kóh sarỡih
+@Núi mòn /
+	Kóh raliêi
+@Núi non /
+	Kóh king
+@Núi rừng /
+	Sarứng kóh
+@Nước đọng /	
+	Dỡq sandống
+@Nước ngoài /
+	Kuruang nuaq
+@Nước, Tổ quốc /
+	Kuruang
+@Tổ quốc /
+	Kuruang
+@Nuôi /
+	Bán
+@Nuôi /	
+	Siêm
+@Nuốt /
+	Lưn
+@Ở /	
+	Ỡt
+
+@Ở Đảng /	
+	Tơâq Dang
+@Ở giữa /	
+	Mpứng
+@Ô nhiểm /
+	Mpơâq
+@Ô ruộng /	
+	Kuaq nia
+@Ơi /
+	Ơih
+@Ổn định /	
+	Chơot lơah
+@Ổn định /
+	Chứm raku
+@Ổn định, thành công /	
+	Pơon
+@Thành công /	
+	Pơon
+@Ông /
+	Achuaih
+@Ông bà nội /	
+	Achuaih ayơaq oq
+@Ống dẫn /
+	Alóq sapăh
+@Ống khám /
+	Sambỗr tannứng
+@Ớt /	
+	Tiễu
+@Pa Nho /	
+	Panhơăh
+@Phải /
+	Kóq
+@Phát cây /
+	Tal
+@Phát huy /	
+	Pơăh mpỗl
+@Phát quang /
+	Pachơah
+@Phát triển /	
+	Pốh
+@Phát triển /	
+	Rứh liêi
+@Phát triển kinh tế /	
+	Liêi sanốk
+@Phía /	
+	Kơah
+@Phổ biến /
+	Atỡng
+@Phơi /
+	Tiang
+@Phối hợp /	
+	Sampom
+@Phơi lúa /
+	Tiang saro
+@Phòng học /
+	Klống ariên
+@Phong phú /
+	Túk palễk
+@Phòng tránh /
+	Sa vễr
+@Phong trào /
+	Pang ranáq
+@Phù hợp /
+	Pĩêiq pong
+@Phủ kín /	
+	Kupáng klứp
+@Phụ nữ /
+	Mansễm
+@Quá /	
+	La-ỡq
+@Quần /
+	Kốn
+@Quân ngũ /	
+	Santúk tễ líng
+@Quan tâm /
+	Pêng ayắq
+@Quan trọng /
+	Karơak
+@Quang chài /
+	Mpắng pa nắng
+@Quanh năm /
+	Chuôp kumo
+@Quê hương /
+	Dống vil rangual tiaq
+@Quê hương /
+	Rangual tiaq
+@Quen /
+	Kơi
+@Quên /
+	Khlĩr
+@Quét /	
+	Pễh
+@Quét (chống) /	
+	Pễh
+@Quốc khánh /
+	Dóh ayuôr kuruang
+@Quốc tế /
+	Mpha kuruang
+@Quy ước /
+	Santúk
+@Quyền lợi /
+	Póq bốn
+@Quyền uy /
+	Bláq blễng
+@Quýt /
+	Nnhăq kĩt
+@Ra sức /	
+	Karsân rangứh
+@Ra tù /	
+	Lơăh tũ
+@Rác /	
+Sanễk
+@Rải nhựa /	
+	Tốh yang
+@Rảnh /
+	Sarlăng
+@Rào dậu /
+	Riau khâm
+@Rất cần thiết /	
+	Lứq nhuat
+@Rất nhiệt tình /
+	Kuva pahỡm
+@Rất sớm /	
+	Kláih
+@Rất tích cực /
+	Lứq sararắng
+@Rất tốt /	
+	O pahuôr
+@Rau cải /	
+	Sapơâi
+@Rau thơm /	
+	Bát phuôm
+@Rau, Cỏ /	
+	Bát
+@Rét /	
+	Sangễt
+@Rõ /	
+	Mpáh
+@Rồi /	
+Chơ
+@Rời khỏi /
+	Tatáh
+@Rủ nhau /	
+	Radững
+@Rửa /
+	Ariau
+@Rửa chân /	
+	Sarơah ayững
+@Rừng đại ngàn /
+	Pa sarứng
+@Rừng trồng /
+	Sarứng aluông chóh
+@Ruộng nước /
+	Nia dỡq
+@Rượu bia /
+	Blắng bia
+@Sắc /	
+	Ralương
+@Sách /
+	Pơ saráq
+@Sạch đẹp /	
+	Bráh o
+@Sạch sẽ /
+	Bráh
+@Săn bắt /
+	Rơăh pánh
+@Sàn nhà /
+	Ntrỡn
+@Sân nhà /
+	Nchăh
+@Săn thú /
+	Rurơăh
+@Sản xuất củ /
+	Tutáq tiaq
+@Sản xuất giỏi /
+	Khếh ranáq
+@Sản xuất mới /	
+	Tutáq tamái
+@Sản xuất nông nghiệp /
+	Tutáq dống sarái
+@Sáng /
+	Tarưp
+Ví dụ: Tarưp pở học nơ
+Dịch nghĩa: Sáng mai đi học nghe
+@Sáng sớm /	
+	Tarưp
+@Sắp xếp /	
+	Sarĩap
+@Sau /	
+	Ntun
+@Sâu /	
+	Yarũ
+@Sau thu hoạch /	
+	Mơâm sot ramơat
+@Sẽ (thì) /	
+	Nơâq
+@Sinh /	Kanỡt
+@Sinh /
+	Palơoh mơat
+@Chào đời) /
+	Palơoh mơat
+@Đẻ /
+	Palơoh mơat
+@Số đếm  /
+	Nớap kupéh
+@Sinh hoạt /
+	Rôm sarhông
+@Sở dĩ /	
+	Dốq nnắq
+@Sống /
+	Tamơong
+@Sông cạn /
+	Krỗng sakăh
+@Sống cộng đồng /
+	Ỡt cha mpruam
+@Sống, Sinh sống /
+	Tamơong
+@Sinh sống /
+	Tamơong
+@Sử dụng /	
+	Nguaiq cha
+@Sử dụng không /
+	Tắt miat
+@Sức mạnh /	
+	Rêng put
+@Suy giảm /	
+	Sartut
+@Suy nghĩ /	
+	Sarnớm
+@Tác động /	
+	Rapáih
+@Tài nguyên /
+	Sanốk klỡp
+@Tài tình /
+	Chiang blễng
+@Tại xã /	
+	Katâm sáq
+@Tại, đến /	
+	Tơâq
+@Tắm /	
+	Mpơi
+@Tạm biệt /
+	Ratáh atĩ
+@Tấm gương /
+	Pơâng o
+@Tấm rẩy /
+	Liang sarái
+@Tán loạn /
+	Puprư
+@Tàng trữ /	
+	Karĩam
+@Tăng trưởng /
+	Pardữ liêi
+@Tạo điều kiện /
+	Taléh tutáq
+@Tạo dựng cuộc sống /
+	Chuaq cha
+@Tạo nên /
+	Yỗn kỡt
+@Tạo ra /	
+	Tễng
+@Tập thể dục /
+	Ayiat abot
+@Tập trung /	
+	Tapống
+@Tất cả  /
+        Nhéq tữh  (ka tữh)
+Phiên âm: Nhé-q tư -h
+@Tay /
+	Atĩ
+@Tay làm /
+	Atĩ táq
+@Tên /	
+	Ra mứh
+   Phiên âm: 	Ra-mứ-h
+   Ví dụ:    	Kứq ramứh la Hong
+                Mơâi ramứh la ntrớu? 
+   Đọc:      	Cứ-q ra-mứ-h la Hong
+                Mấy ra-mứ-h la ân-trâu?
+   Dịch nghĩa:  Tôi tên là Hông 
+                Bạn tên là gì?  
+@Tên bản /	
+	Salang
+@Tên người /
+	Bóng
+@Tết /	
+	Cha tangáy lơăh kumo
+@Thả /	
+	Akláh
+@Thăm /
+	Sa-óh
+@Thăm bạn /
+	Sa-óh yớu
+@Thân /
+	Tỗ
+@Thần /
+	Yiang
+@Thần linh /
+	Yiang parơah
+@Thần lúa /	
+	Abỗn
+@Tháng /
+	Kasâi
+@Tháng 10  /
+	Kasâi tiang
+@Tháng mười  /
+	Kasâi tiang
+@Tháng 11 /
+	Kasâi yáng
+@Tháng mười một /
+	Kasâi yáng
+@Tháng 12 /
+	Kasâi ong
+@Tháng mười hai /
+	Kasâi ong
+@Tháng 2 /
+	Kasâi liak
+@Tháng hai /
+	Kasâi liak
+@Tháng 3 /
+	Kasâi pakóih
+@Tháng ba /
+	Kasâi pakóih
+@Tháng 4 /
+	Kasâi salắng
+@Tháng tư /
+	Kasâi salắng
+@Tháng 5 /	
+	Kasâi ra-ai
+@Tháng năm /	
+	Kasâi ra-ai
+@Tháng 6 /
+	Kasâi tứp
+@Tháng sáu /
+	Kasâi tứp
+@Tháng 7 /
+	Kasâi rơang
+@Tháng bảy /
+	Kasâi rơang
+@Tháng 8 /
+	Kasâi ring
+@Tháng tám /
+	Kasâi ring
+@Tháng 9 /
+	Kasâi ữt
+@Tháng chính /
+	Kasâi ữt
+@Tháng giêng /
+	Kasâi lêk
+@Thành /	
+	Kỡt
+@Thanh bình /
+	Iên o
+@Thành công /	
+	Bữn pơon
+@Thanh kiếm /
+	Dau lũ
+@Thanh la /	
+	Parnăh
+@Thành lập /
+	Padốh ayuôr
+@Thanh niên /
+	Kũai sayỡr
+@Thành tích chiến đấu /
+	Kia rachứl
+@Thành tích hoạt động /
+	Kia ranáq
+@Thấp /
+	Dễn
+@Thắp sáng /	
+	Takát pơang
+@Thật thà /
+	Tanơang mứt
+@Thật, rất..  /
+	Lứq
+@Thấy /
+	Hữm
+@Thay đổi /	
+	Parlât
+@Thay đổi /
+	Parlớt tamái
+@Thay đổi /	
+	Yuôr tanái
+@Thầy giáo /	
+	Anhi karu
+Phiên âm: A-nhi cà rù
+
+@Thế giới /	
+	Mương lứm
+@Thế nào? /	
+	Nnắq
+@Thế, vậy /	
+	Ngkíq
+@Theo /	
+	Puai
+@Theo người /	
+	Tun tỗ
+@Thị trấn /	
+	Thĩ trán
+@Thị trường /	
+	Pa ralêq rapúk
+@Thích /	
+	Samák
+@Thiên tai /	
+	Pahũan palơăng kutễq
+@Thiếu /	
+	Ắq
+@Thiếu nhi /	
+	Karnễn
+@Thiếu thốn /	
+	Ắq sapếq
+@Thoải mái /	
+	Lahõi latơah
+@Thóc, lúa /	
+	Saro
+@Thổi /	
+	Plóng
+@Thời đại /	
+	Pa ralỗm nái
+@Thời đại /	
+	Rapúk put
+@Thời đại ngày nay /
+	Pa put sanua
+@Thời gian /
+	Parlứh
+@Thói quen /	
+	Tampêt
+@Thơm phức /	
+	Phuôm raphớk
+@Thông minh /	
+	Taráng
+@Thống nhất /	
+	Tớt langhoiq
+@Thông nhựa /	
+	Sango siêt
+@Thông suốt /	
+	Sapơang
+@Thông tin /	
+	Sương svál
+@Thứ  /
+	Tangáy katâm
+@Thu hoạch /
+	Táq mut
+@Thu nhập /	
+	Táq lơăh
+@Thú rừng /	
+	Sarán arưih
+@Thủ tục giấy tờ /
+	Saráq rit
+@Thức ăn /
+	Sana cha
+@Thực hiện /
+	Táq ranáq
+@Thước kẻ /
+	Treh anơang
+@Thuốc nhuộm /
+	Santứm
+@Thương /	
+	Ayơoq
+@Thường /	
+	Dốq
+@Thương binh /	
+	Líng yỗt
+@Thương binh, liệt sĩ /
+	Líng yỗt, líng pứt
+@Tí nữa /	
+	Mahỗi ễn
+@Tích cóp /	
+	Kayáiq
+@Tích cực /	
+	Chốq mơâq
+@Tiêm chích /	
+	Chơat
+@Tiền vốn /	
+	Práq pôn
+@Tiếng /	
+	Sương
+@Tím /	
+	Trứm trúk
+@Tìm đường /	
+	Chuaq raleh
+@Tin tưởng /
+	Chơaq
+@Tin tưởng /
+	Sa-âm
+@Tinh thành /
+	Mứt pahỡm
+@Tổ chức /
+	Dóh
+@Tổ chức /	
+	Dóh pang
+@Tờ mờ sáng /	
+	Rơrơ
+@Tổ quốc mình /
+	Kuruang bữm
+@Tổ tiên /	
+	Kúplốq
+@Toàn diện /	
+	Ku ắk
+@Toàn thể /	
+	Nhéq tữh
+@Tôi /	
+	Kứq
+Phiên âm: Cứ-q
+@Tối /	
+	Sadớu
+@Tốt xanh /
+	Pahuô ramơong
+@Trả lời /
+	Ta-ỡi
+@Trả nợ /
+	Kuláh
+@Tra tấn /
+	Tơanh amớt
+@Trạm xá /	
+	Sal pũô mpơih
+@Trạm xá xã /
+	Sal pũô tâng sáq
+@Trạm y tế /	
+	Sal y tế
+@Trang phục /	
+	Tâmpắk 
+@Trang phục phụ nữ /	
+	Tâmpắk mansễm
+@Trang trọng /	
+	Sữp o
+@Tránh /	
+	Savễr
+@Trật tự /	
+	Pang o
+@Trật tự an ninh xã hội /
+	Iên o rapúk
+@Trẻ /
+	Póng
+@Tre già /	
+	Sarắng
+@Trẻ nhỏ /	
+	Karnễn
+@Trên đồi /	
+	Tâng dũal
+@Trỉa gieo /
+	Chơat choi
+@Trỉa lúa /
+	Chơat saro
+@Trời /
+	Palơang
+@Trời mưa /
+	Palơăng mia
+@Trộm cắp /
+	Tutuôiq
+@Tròn /	
+	Vứl
+@Trống /
+	Sangkor
+@Trong cuộc sống /
+	Tâng pang ỡt cha
+@Trong họ /
+	Tâng mũ
+@Trong hoàn cảnh đó /
+	Tâng pa ki
+@Trong lành /	
+	Cháh ralơang
+@Trồng màu /
+	Chóh sarnóh
+@Trong trí nhớ /
+	Tâng mứt
+@Trồng trọt /
+	Chuchóh sarnóh
+@Trong veo /	
+	Ralơang
+@Trưa /
+	Tơâng
+@Trứng /
+	Ắk tarễl
+@Trung Quốc /
+	Chék
+@Trưởng bản /
+	Ariêih vil
+@Trường học /
+	Sal ariên
+@Trường sơn /	
+	Chíng tíng
+@Trường THPT /
+	Sal ariên put
+@Trường tồn /
+	Tamơong dũnh
+@Truyền bá /
+	Sitáng
+@Truyền thống /
+	Tampêt
+@Truyền thuyết /
+	Pưn phễn
+@Tù đày /
+	Tũ anúh
+@Từ đó /	
+	Tễ ki
+@Tự nguyện /	
+	Pahỡm
+@Tự nhiên /	
+	Yiang tễng
+@Từ thiện /	
+	Lương sa vớt
+@Từ trần (đi xa) /
+	Luat bốn
+@Từ trước đây /	
+	Tễ klĩ
+@Tua vải /	
+	Kansái priêi
+@Tuần sau /	
+	Tahữp tangáy ntun
+@Tục họ /	
+	Rit mũ
+@Từng gia đình /
+	Ku dống
+@Tuổi /	
+	Chô kumo
+
+@Tuốt lúa /
+	Sot
+@Tụt hậu /
+	Karlũn
+@UB xã /
+	Dống sáq
+@UBND huyện /
+	Raku hiên
+@Uống /
+	Nguaiq
+@Uống say /
+	Nguaiq bũl
+@Vải chàm /
+	Prê trứm
+@Vai trò /
+	Tarâng mpỗl
+@Vận chuyển /
+	Sakong
+@Vận động /
+	Rakiauq
+@Vận dụng /
+	Kapua kamkêng
+@Văn hóa /
+	Phễp rit o
+@Văn Hóa /
+	Rit o
+@Văn minh /
+	Samơât o mơaiq
+@Văn phòng /
+	Klống dống ranáq
+@Văn tự /
+	Saráq pa-ar
+@Vàng /	
+	Rariaq
+@Vâng /
+	Ơq
+@Vang lên to /	
+	Kasang
+@Vang mãi /	
+	Kanuang
+@Vàng óng /	
+	Rariaq thỡr
+@Vào  /
+         Mut
+Phiên âm: Mut
+@Vào học /	
+Mut riên saráq
+@Vào người /
+	Mut tỗ
+@Vào, về /	
+	Chu
+@Vay /	
+	Vơaq
+@Váy tamúk /	
+	Sớn tamúk
+@Về nghỉ hưu /
+	Chu ralu ranáq
+@Về nhà /
+	Chu dống
+@Vệ sinh /
+	Rasa
+@Vệ sinh lớp học /
+	Rasa klống ariên
+@Về xã /
+	Chu sáq
+@Ven, xung quang /
+	Pễr
+@Vị trí /	
+	Raku
+@Việc hoàn thành /	
+	Ranáq sa buôn
+@Việc quan trọng /
+	Ranáq kaơak
+@Việc tổ chức /
+	Ranáq dóh pang
+@Viêm họng /	
+	A-ĩ arơoq
+@Viêm mũi /	
+	A-ĩ klống múh
+@Viên thuốc /
+	Ắk parlai
+@Vinh dự /	
+	Sa-ỡr
+@Vở /	
+	Pơ chơâiq
+@Vợ /	
+	Lakuôi
+@Vọng ra /	
+	Kanuang
+@Vực suối /
+	Klóng
+@Vui /
+	Bũi
+@Vui mừng /	
+	Ỡnh chỡ
+@Vui nhộn /
+	Bũi óh
+@Vui tươi /
+	Bũi o
+@Vùng /	
+	Phong
+@Vững vàng /	
+	Kơang mứt
+@Vườn /
+	Rô
+@Vườn  /	
+	Rô rarnók
+@Vườn cây /	
+	Rô aluang
+@Vườn đồi /
+	Rô kutễq dũal
+@Vươn lên /
+	Palơoh
+@Vươn lên /
+	Sayóh achỗn
+@Vươn ngang tầm /	
+	Yuôr li
+@Vườn nhà /
+	Rô dống
+@Vuông /	
+	Puông
+@Vượt qua /
+	Ngơâiq yang
+@Vứt bỏ /	
+	Tôi
+@Xa /	
+	Yơng
+@Xã /	
+	Sáq
+@Xâm lược /	
+	Lôp
+@Xanh /	
+	Ramơong
+@Xanh đen /	
+	Ralương kũm
+@Xanh nhạt /	
+	Prơang ramơong
+@Xây đồn /	
+	Chóh dỗn
+@Xây dựng, xây dựng lên /	
+	Ayứng ayuôr
+@Xe đạp /	
+	Karvàng pỡq
+@Xe ôtô /	
+	Raku lúk
+@Xem, trông coi /
+	Nhêng, salĩq
+@Xếp gọn /	
+	Ramơât
+@Xóa /	
+	Pupứt
+@Xoài /
+	Tual
+@Xong /	
+	Mơâm
+@Xợt cỏ /	
+	Lơok bát
+@Xuang quanh vườn /	
+	Lavíng rô
+@Xuất hiện /
+	Lơăh
+@Xuống /	
+	Sễng
+@Ý chí /	
+	Rangứh sarnớm
+@Y sĩ /	
+	Mo palai kakớt
+@Yếu /	
+	Iêuq
+@Yêu nước /	
+	Kiat kuruang
+@Yêu quý /
+	Kiat ayơoq
+@Quý mếm /
+	Kiat pasếq
+
+  

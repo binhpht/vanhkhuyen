@@ -1,0 +1,8 @@
+Module:
+  Name: "Ăn uống (Food & Drink)"
+
+Skills:
+  - basic-food.yaml
+  - fruits.yaml
+  - drinks.yaml
+

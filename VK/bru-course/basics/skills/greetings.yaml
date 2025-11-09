@@ -1,0 +1,93 @@
+Skill:
+  Name: Lời chào (Greetings)
+  Id: 1
+  
+New words:
+  - Word: Bánh hỡ
+    Synonyms:
+      - Tabỡp
+    Translation: Chào
+    Also accepted:
+      - Xin chào
+      - Hello
+
+  - Word: Bánh tê
+    Translation: Xin chào
+    Also accepted:
+      - Chào
+
+  - Word: Avia karu
+    Translation: Cô giáo
+    Also accepted:
+      - Giáo viên nữ
+
+  - Word: Anhi karu
+    Translation: Thầy giáo
+    Also accepted:
+      - Giáo viên nam
+
+  - Word: Hếq sễm
+    Translation: Chúng em
+
+  - Word: Mũ sễm
+    Translation: Các em
+
+  - Word: Tayứng
+    Translation: Đứng lên
+    Also accepted:
+      - Đứng dậy
+
+  - Word: Taku
+    Translation: Ngồi xuống
+
+  - Word: Sa-ỡn
+    Translation: Cảm ơn
+
+  - Word: Ơq
+    Translation: Vâng
+    Also accepted:
+      - Dạ
+
+  - Word: Nơ
+    Translation: Nhé
+    Also accepted:
+      - (từ đệm)
+
+Phrases:
+  - Phrase: Bánh hỡ Avia karu
+    Alternative versions:
+      - Tabỡp Avia karu
+    Translation: Chúng em chào cô ạ
+
+  - Phrase: Bánh tê Hếq sễm
+    Translation: Chào các em
+
+  - Phrase: Ka lưp tayứng
+    Alternative versions:
+      - Ka lup tayứng
+    Translation: Cả lớp đứng dậy
+
+  - Phrase: Mũ sễm taku
+    Translation: Các em ngồi xuống
+
+  - Phrase: Sa-ỡn
+    Translation: Cảm ơn
+
+Mini-dictionary:
+  Bru:
+    - Ka: cả
+    - lưp: lớp
+    - la: là
+    - nơ: nhé
+
+  Vietnamese:
+    - Chào:
+        - Bánh hỡ
+        - Bánh tê
+        - Tabỡp
+    - Cô giáo: Avia karu
+    - Thầy giáo: Anhi karu
+    - Các em: Mũ sễm
+    - Đứng lên: Tayứng
+    - Ngồi xuống: Taku
+

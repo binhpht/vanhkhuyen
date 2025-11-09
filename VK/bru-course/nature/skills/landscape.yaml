@@ -1,0 +1,87 @@
+Skill:
+  Name: Phong cảnh (Landscape)
+  Id: 12
+  
+New words:
+  - Word: Kóh
+    Translation: Núi
+
+  - Word: Kóh sarỡih
+    Translation: Núi cao
+
+  - Word: Kóh king
+    Translation: Núi non
+
+  - Word: Sarứng
+    Translation: Rừng
+
+  - Word: Sarứng kóh
+    Translation: Núi rừng
+    Also accepted:
+      - Rừng núi
+
+  - Word: Pa sarứng
+    Translation: Rừng đại ngàn
+
+  - Word: Krỗng
+    Translation: Sông
+    Also accepted:
+      - Dòng sông
+
+  - Word: Amống
+    Translation: Ao
+
+  - Word: Talĩng
+    Translation: Hồ
+
+  - Word: Dỡq lứn
+    Translation: Biển
+    Also accepted:
+      - Đại dương
+
+  - Word: Kutễq
+    Translation: Đất
+
+  - Word: Dũal
+    Translation: Đồi
+
+  - Word: Rana
+    Translation: Đường
+
+  - Word: Dống kuruang
+    Translation: Đất nước
+
+Phrases:
+  - Phrase: Sarứng kóh
+    Translation: Núi rừng
+
+  - Phrase: Chu kóh
+    Translation: Lên núi
+
+  - Phrase: Tâng dũal
+    Translation: Trên đồi
+
+Mini-dictionary:
+  Bru:
+    - Kóh: núi
+    - Sarứng: rừng
+    - Krỗng: sông
+    - Dỡq: nước
+    - lứn: lớn
+    - Kutễq: đất
+    - Dũal: đồi
+    - Chu: lên
+    - Tâng: trên
+    - sarỡih: cao
+    - king: non
+
+  Vietnamese:
+    - Núi: Kóh
+    - Rừng: Sarứng
+    - Sông: Krỗng
+    - Ao: Amống
+    - Hồ: Talĩng
+    - Biển: Dỡq lứn
+    - Đất: Kutễq
+    - Đồi: Dũal
+

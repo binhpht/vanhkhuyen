@@ -1,0 +1,74 @@
+Skill:
+  Name: Đếm (Counting)
+  Id: 6
+  
+New words:
+  - Word: Bar chứt
+    Translation: Hai mươi
+    Also accepted:
+      - "20"
+
+  - Word: Pái chứt
+    Translation: Ba mươi
+    Also accepted:
+      - "30"
+
+  - Word: Pỗn chứt
+    Translation: Bốn mươi
+    Also accepted:
+      - "40"
+
+  - Word: Sỡng chứt
+    Translation: Năm mươi
+    Also accepted:
+      - "50"
+
+  - Word: Mu kulám
+    Translation: Một trăm
+    Also accepted:
+      - "100"
+
+  - Word: Mu ngin
+    Translation: Một nghìn
+    Also accepted:
+      - "1000"
+
+  - Word: Bữn
+    Translation: Có
+
+  - Word: Sếq
+    Translation: Bao nhiêu
+    Also accepted:
+      - Mấy
+
+  - Word: Chô
+    Translation: Tuổi
+
+Phrases:
+  - Phrase: Kumo nái sếq chô
+    Translation: Năm nay bao nhiêu tuổi
+
+  - Phrase: Mu kulám bar chứt ngin
+    Translation: Một trăm hai mươi nghìn
+
+  - Phrase: Dống kứq bữn tứp náq
+    Translation: Gia đình tôi có sáu người
+
+Mini-dictionary:
+  Bru:
+    - Kumo: năm
+    - nái: nay/này
+    - sếq: bao nhiêu
+    - chô: tuổi
+    - bữn: có
+    - náq: người
+    - Dống: gia đình
+    - kứq: tôi
+
+  Vietnamese:
+    - Bao nhiêu: Sếq
+    - Có: Bữn
+    - Tuổi: Chô
+    - Trăm: kulám
+    - Nghìn: ngin
+

@@ -1,0 +1,79 @@
+Skill:
+  Name: Động vật rừng (Wild Animals)
+  Id: 8
+  
+New words:
+  - Word: Yỡt
+    Translation: Nai
+    Also accepted:
+      - Con nai
+
+  - Word: Achĩang
+    Translation: Voi
+    Also accepted:
+      - Con voi
+
+  - Word: Sako
+    Translation: Lợn rừng
+    Also accepted:
+      - Lợn núi
+
+  - Word: Chớm
+    Translation: Chim
+    Also accepted:
+      - Con chim
+
+  - Word: Plĩng
+    Translation: Chim ri
+
+  - Word: Chap
+    Translation: Chim sẻ
+
+  - Word: Riak
+    Translation: Chim công
+    Also accepted:
+      - Công
+
+  - Word: Mễu kuruang
+    Translation: Mèo rừng
+
+  - Word: Ntruôi kruang
+    Translation: Gà rừng
+
+  - Word: Sarán arưih
+    Translation: Thú rừng
+
+  - Word: Rurơăh
+    Translation: Săn thú
+    Also accepted:
+      - Đi săn
+
+Phrases:
+  - Phrase: Pỡq rurơăh
+    Translation: Đi săn
+
+  - Phrase: Rơăh pánh sarán arưih
+    Translation: Săn bắt thú rừng
+
+  - Phrase: Kariaq sarán arưih
+    Translation: Bảo vệ thú rừng
+
+Mini-dictionary:
+  Bru:
+    - Sarán: thú
+    - arưih: rừng
+    - kuruang: rừng
+    - Rurơăh: săn
+    - Rơăh pánh: săn bắt
+    - Kariaq: bảo vệ
+    - Pỡq: đi
+
+  Vietnamese:
+    - Nai: Yỡt
+    - Voi: Achĩang
+    - Lợn rừng: Sako
+    - Chim: Chớm
+    - Thú rừng: Sarán arưih
+    - Săn: Rurơăh
+    - Rừng: arưih, kuruang
+

@@ -1,0 +1,81 @@
+Skill:
+  Name: Thức ăn cơ bản (Basic Food)
+  Id: 9
+  
+New words:
+  - Word: Cha
+    Translation: Ăn
+
+  - Word: Dỗi
+    Translation: Cơm
+    Also accepted:
+      - Cơm nấu chín
+
+  - Word: Cha dỗi
+    Translation: Ăn cơm
+    Also accepted:
+      - Ăn
+
+  - Word: Saro
+    Translation: Lúa
+    Also accepted:
+      - Thóc
+
+  - Word: Sĩaq
+    Translation: Cá
+
+  - Word: Bát
+    Translation: Rau
+    Also accepted:
+      - Cỏ
+
+  - Word: Sapơâi
+    Translation: Rau cải
+
+  - Word: Ắk tarễl
+    Translation: Trứng
+
+  - Word: Sana cha
+    Translation: Thức ăn
+
+  - Word: Krơng sana
+    Translation: Lương thực
+
+  - Word: Pơong
+    Translation: Khoai
+    Also accepted:
+      - Sắn
+
+  - Word: Sapua
+    Translation: Ngô
+
+Phrases:
+  - Phrase: Tarưp cha mầm pở học
+    Translation: Sáng ăn xong là đi học
+
+  - Phrase: Cha dỗi saréh
+    Translation: Ăn cơm mới
+    Also accepted:
+      - Lễ ăn cơm mới
+
+  - Phrase: Ít ta ngan cha đôi
+    Translation: Lấy bát để ăn cơm
+
+Mini-dictionary:
+  Bru:
+    - Cha: ăn
+    - dỗi: cơm
+    - Sana: thức ăn
+    - Tarưp: sáng
+    - mầm: xong
+    - pở: là
+    - saréh: mới
+
+  Vietnamese:
+    - Ăn: Cha
+    - Cơm: Dỗi
+    - Lúa: Saro
+    - Cá: Sĩaq
+    - Rau: Bát
+    - Trứng: Ắk tarễl
+

@@ -1,0 +1,89 @@
+Skill:
+  Name: Giới thiệu (Introductions)
+  Id: 2
+  
+New words:
+  - Word: Kứq
+    Translation: Tôi
+
+  - Word: Mơâi
+    Translation: Bạn
+    Also accepted:
+      - Em
+      - Anh
+      - Chị
+
+  - Word: Ramứh
+    Translation: Tên
+
+  - Word: Nơau
+    Translation: Ai
+
+  - Word: Ntrớu
+    Translation: Gì
+    Also accepted:
+      - Cái gì
+
+  - Word: Nái
+    Translation: Này
+    Also accepted:
+      - Đây
+
+  - Word: Án
+    Translation: Nó
+    Also accepted:
+      - Anh ấy
+      - Chị ấy
+
+  - Word: Hái
+    Translation: Chúng ta
+
+  - Word: Alơâi
+    Translation: Họ
+
+  - Word: Bon
+    Translation: Nơi
+    Also accepted:
+      - Chỗ
+
+  - Word: A-ễm
+    Translation: Em
+
+Phrases:
+  - Phrase: Kứq ramứh la Hong
+    Translation: Tôi tên là Hồng
+
+  - Phrase: Mơâi ramứh la ntrớu
+    Translation: Bạn tên là gì
+
+  - Phrase: Nay la nơau
+    Translation: Đây là ai
+
+  - Phrase: Ta ngái nái
+    Translation: Hôm nay
+
+  - Phrase: Kứq la TaHan
+    Translation: Tôi là TaHan
+
+  - Phrase: Nay la nơau
+    Translation: Đây là ai
+
+Mini-dictionary:
+  Bru:
+    - la: là
+    - Ta ngái: Hôm
+    - nái: nay/này
+    - bon: nơi
+    - léq: nào
+
+  Vietnamese:
+    - Tôi: Kứq
+    - Bạn: Mơâi
+    - Tên: Ramứh
+    - Ai: Nơau
+    - Gì: Ntrớu
+    - Này: Nái
+    - Là: la
+    - Họ: Alơâi
+    - Chúng ta: Hái
+

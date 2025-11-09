@@ -1,0 +1,85 @@
+Skill:
+  Name: Động vật nhà (Domestic Animals)
+  Id: 7
+  
+New words:
+  - Word: Acho
+    Translation: Chó
+    Also accepted:
+      - Con chó
+
+  - Word: Mễu
+    Translation: Mèo
+    Also accepted:
+      - Con mèo
+
+  - Word: Ntruôi
+    Synonyms:
+      - Truôi
+    Translation: Gà
+    Also accepted:
+      - Con gà
+
+  - Word: Ntruôi tông
+    Translation: Gà trống
+
+  - Word: Ntruôi atu
+    Translation: Gà mái
+
+  - Word: Atia
+    Translation: Vịt
+    Also accepted:
+      - Con vịt
+
+  - Word: Alik
+    Synonyms:
+      - Aliq
+    Translation: Lợn
+    Also accepted:
+      - Con lợn
+
+  - Word: Tariak
+    Translation: Trâu
+    Also accepted:
+      - Con trâu
+
+  - Word: Atrơaq
+    Translation: Bò
+    Also accepted:
+      - Con bò
+
+  - Word: Mbễq
+    Translation: Dê
+    Also accepted:
+      - Con dê
+
+  - Word: Mantán
+    Translation: Gia súc
+
+Phrases:
+  - Phrase: Kuaq ntruôi
+    Translation: Chuồng gà
+
+  - Phrase: Kuaq alik
+    Translation: Chuồng lợn
+
+  - Phrase: Bán mantán
+    Translation: Chăn nuôi gia súc
+
+Mini-dictionary:
+  Bru:
+    - Kon: con
+    - Kuaq: chuồng
+    - Bán: nuôi
+    - mantán: gia súc
+
+  Vietnamese:
+    - Chó: Acho
+    - Mèo: Mễu
+    - Gà: Ntruôi
+    - Vịt: Atia
+    - Lợn: Alik
+    - Trâu: Tariak
+    - Bò: Atrơaq
+    - Dê: Mbễq
+

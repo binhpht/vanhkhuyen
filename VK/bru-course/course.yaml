@@ -1,0 +1,98 @@
+Course:
+  Language:
+    Name: Bru (Brũ Vân Kiều)
+    IETF BCP 47: brv
+
+  For speakers of:
+    Name: Vietnamese
+    IETF BCP 47: vi
+
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+  Repository: https://github.com/LibreLingo/LibreLingo/
+
+  Special characters:
+    - "á"
+    - "à"
+    - "ả"
+    - "ã"
+    - "ạ"
+    - "ă"
+    - "ắ"
+    - "ằ"
+    - "ẳ"
+    - "ẵ"
+    - "ặ"
+    - "â"
+    - "ấ"
+    - "ầ"
+    - "ẩ"
+    - "ẫ"
+    - "ậ"
+    - "é"
+    - "è"
+    - "ẻ"
+    - "ẽ"
+    - "ẹ"
+    - "ê"
+    - "ế"
+    - "ề"
+    - "ể"
+    - "ễ"
+    - "ệ"
+    - "í"
+    - "ì"
+    - "ỉ"
+    - "ĩ"
+    - "ị"
+    - "ó"
+    - "ò"
+    - "ỏ"
+    - "õ"
+    - "ọ"
+    - "ô"
+    - "ố"
+    - "ồ"
+    - "ổ"
+    - "ỗ"
+    - "ộ"
+    - "ơ"
+    - "ớ"
+    - "ờ"
+    - "ở"
+    - "ỡ"
+    - "ợ"
+    - "ú"
+    - "ù"
+    - "ủ"
+    - "ũ"
+    - "ụ"
+    - "ư"
+    - "ứ"
+    - "ừ"
+    - "ử"
+    - "ữ"
+    - "ự"
+    - "ý"
+    - "ỳ"
+    - "ỷ"
+    - "ỹ"
+    - "ỵ"
+    - "đ"
+
+Modules:
+  - basics
+  - family
+  - numbers
+  - animals
+  - food
+  - nature
+  - daily-life
+
+Settings:
+    Audio:
+      Enabled: False
+

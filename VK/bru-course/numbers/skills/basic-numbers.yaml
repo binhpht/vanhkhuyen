@@ -1,0 +1,89 @@
+Skill:
+  Name: Số cơ bản (Basic Numbers)
+  Id: 5
+  
+New words:
+  - Word: Muôi
+    Translation: Một
+    Also accepted:
+      - "1"
+
+  - Word: Bar
+    Translation: Hai
+    Also accepted:
+      - "2"
+
+  - Word: Pái
+    Translation: Ba
+    Also accepted:
+      - "3"
+
+  - Word: Pỗn
+    Translation: Bốn
+    Also accepted:
+      - "4"
+
+  - Word: Sỡng
+    Translation: Năm
+    Also accepted:
+      - "5"
+
+  - Word: Tapơât
+    Translation: Sáu
+    Also accepted:
+      - "6"
+
+  - Word: Tapul
+    Translation: Bảy
+    Also accepted:
+      - "7"
+
+  - Word: Takual
+    Translation: Tám
+    Also accepted:
+      - "8"
+
+  - Word: Takêh
+    Translation: Chín
+    Also accepted:
+      - "9"
+
+  - Word: Mu chứt
+    Translation: Mười
+    Also accepted:
+      - "10"
+
+  - Word: Chứt
+    Translation: Mươi
+
+Phrases:
+  - Phrase: Kứq mu chứt labar chô kumo
+    Translation: Tôi mười hai tuổi
+
+  - Phrase: Bữn pái chứt lapái náq
+    Translation: Có ba mươi ba người
+
+  - Phrase: Bữn bar chứt bar náq
+    Translation: Có hai mươi hai người
+
+Mini-dictionary:
+  Bru:
+    - Kứq: Tôi
+    - bữn: có
+    - náq: người
+    - chô: tuổi
+    - kumo: năm
+    - la: lẽ (trong số)
+
+  Vietnamese:
+    - Một: Muôi
+    - Hai: Bar
+    - Ba: Pái
+    - Bốn: Pỗn
+    - Năm: Sỡng
+    - Sáu: Tapơât
+    - Bảy: Tapul
+    - Tám: Takual
+    - Chín: Takêh
+    - Mười: Mu chứt
+

@@ -1,0 +1,85 @@
+Skill:
+  Name: Ở trường (At School)
+  Id: 16
+  
+New words:
+  - Word: Sal ariên
+    Translation: Trường học
+
+  - Word: Klống ariên
+    Translation: Phòng học
+    Also accepted:
+      - Lớp học
+
+  - Word: Lữp
+    Translation: Lớp
+
+  - Word: Riên
+    Translation: Học
+
+  - Word: Riên saráq
+    Translation: Học tập
+
+  - Word: Pơ saráq
+    Translation: Sách
+
+  - Word: Pơ chơâiq
+    Translation: Vở
+
+  - Word: Sanĩk
+    Translation: Bút
+
+  - Word: Sanĩk chol
+    Translation: Bút chì
+
+  - Word: Sanĩk santứm
+    Translation: Bút mực
+
+  - Word: Kulỗiq chut
+    Translation: Cục tẩy
+
+  - Word: Pian liar
+    Translation: Bàn
+
+  - Word: Pian raku
+    Translation: Ghế
+
+  - Word: Karu ariên
+    Translation: Giáo viên
+
+  - Word: Riên rangơaiq
+    Translation: Học giỏi
+
+Phrases:
+  - Phrase: Pỡq riên
+    Translation: Đi học
+
+  - Phrase: Mut riên saráq
+    Translation: Vào học tập
+
+  - Phrase: Rasa klống ariên
+    Translation: Vệ sinh lớp học
+
+Mini-dictionary:
+  Bru:
+    - Sal: trường
+    - Klống: phòng/lớp
+    - Riên: học
+    - Saráq: tập/viết
+    - Pơ: cuốn
+    - Sanĩk: bút
+    - Pian: bàn
+    - raku: ngồi/ghế
+    - Karu: giáo viên
+    - rangơaiq: giỏi
+
+  Vietnamese:
+    - Trường học: Sal ariên
+    - Lớp học: Klống ariên
+    - Học: Riên
+    - Sách: Pơ saráq
+    - Vở: Pơ chơâiq
+    - Bút: Sanĩk
+    - Bàn: Pian liar
+    - Ghế: Pian raku
+

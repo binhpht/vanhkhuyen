@@ -1,0 +1,63 @@
+Skill:
+  Name: Đồ uống (Drinks)
+  Id: 11
+  
+New words:
+  - Word: Nguaiq
+    Translation: Uống
+
+  - Word: Dỡq
+    Translation: Nước
+
+  - Word: Dỡq bráh
+    Translation: Nước sạch
+
+  - Word: Blắng
+    Translation: Rượu
+
+  - Word: Blắng bia
+    Translation: Rượu bia
+    Also accepted:
+      - Bia rượu
+
+  - Word: Bia
+    Translation: Bia
+
+  - Word: Nguaiq bũl
+    Translation: Uống say
+    Also accepted:
+      - Say rượu
+
+  - Word: Thớm
+    Translation: Ấm
+
+Phrases:
+  - Phrase: Nguaiq dỡq
+    Translation: Uống nước
+
+  - Phrase: Yớt dỡq bráh
+    Translation: Đưa nước sạch
+    Also accepted:
+      - Dẫn nước sạch
+
+  - Phrase: Ít ta ngan
+    Translation: Lấy bát
+
+Mini-dictionary:
+  Bru:
+    - Nguaiq: uống
+    - Dỡq: nước
+    - bráh: sạch
+    - Blắng: rượu
+    - Bia: bia
+    - bũl: say
+    - Yớt: dẫn/đưa
+
+  Vietnamese:
+    - Uống: Nguaiq
+    - Nước: Dỡq
+    - Rượu: Blắng
+    - Bia: Bia
+    - Say: bũl
+    - Sạch: bráh
+

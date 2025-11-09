@@ -1,0 +1,62 @@
+Skill:
+  Name: Hoa quả (Fruits)
+  Id: 10
+  
+New words:
+  - Word: Priat
+    Translation: Chuối
+
+  - Word: Nnhăq kam
+    Translation: Cam
+
+  - Word: Nnhăq chễng
+    Translation: Chanh
+
+  - Word: Nnhăq băng
+    Translation: Bưởi
+    Also accepted:
+      - Quả bưởi
+
+  - Word: Tual
+    Translation: Xoài
+
+  - Word: Panáih
+    Translation: Mít
+
+  - Word: Chữơq
+    Translation: Dứa
+    Also accepted:
+      - Thơm
+
+  - Word: Ahống
+    Translation: Đu đủ
+
+  - Word: Nnhăq kĩt
+    Translation: Quýt
+
+  - Word: Nnhăq
+    Translation: Quả
+    Also accepted:
+      - Trái cây
+
+Phrases:
+  - Phrase: Aluang cha pasâi
+    Translation: Cây ăn quả
+
+Mini-dictionary:
+  Bru:
+    - Nnhăq: quả
+    - Aluang: cây
+    - cha: ăn
+    - pasâi: quả (ăn được)
+
+  Vietnamese:
+    - Chuối: Priat
+    - Cam: Nnhăq kam
+    - Chanh: Nnhăq chễng
+    - Bưởi: Nnhăq băng
+    - Xoài: Tual
+    - Mít: Panáih
+    - Dứa: Chữơq
+    - Đu đủ: Ahống
+

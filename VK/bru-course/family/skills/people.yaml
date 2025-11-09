@@ -1,0 +1,79 @@
+Skill:
+  Name: Con người (People)
+  Id: 4
+  
+New words:
+  - Word: Kũai
+    Translation: Người
+
+  - Word: Mansễm
+    Translation: Phụ nữ
+    Also accepted:
+      - Đàn bà
+      - Nữ
+
+  - Word: Samiang
+    Translation: Nam
+    Also accepted:
+      - Đàn ông
+
+  - Word: Kũai thâu
+    Translation: Người già
+
+  - Word: Kũai sayỡr
+    Translation: Thanh niên
+
+  - Word: Karnễn
+    Translation: Trẻ em
+    Also accepted:
+      - Thiếu nhi
+
+  - Word: Kumũr
+    Translation: Cô gái
+
+  - Word: Kumán
+    Translation: Con dâu
+
+  - Word: Partiam
+    Translation: Con rể
+
+  - Word: Lakuôi
+    Translation: Vợ
+
+  - Word: Mũ
+    Translation: Họ
+    Also accepted:
+      - Dòng họ
+
+Phrases:
+  - Phrase: Kũai ranáq
+    Translation: Người lao động
+
+  - Phrase: Kũai thâu
+    Translation: Người già
+
+  - Phrase: Kũai sayỡr
+    Translation: Thanh niên
+
+  - Phrase: Ku náq
+    Translation: Mọi người
+
+Mini-dictionary:
+  Bru:
+    - kũai: người
+    - mansễm: phụ nữ
+    - samiang: nam
+    - thâu: già
+    - sayỡr: thanh niên
+    - ranáq: lao động
+    - ku: mọi
+    - náq: người
+
+  Vietnamese:
+    - Người: Kũai
+    - Phụ nữ: Mansễm
+    - Nam: Samiang
+    - Già: thâu
+    - Thanh niên: Kũai sayỡr
+    - Trẻ em: Karnễn
+

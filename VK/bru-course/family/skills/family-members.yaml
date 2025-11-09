@@ -1,0 +1,97 @@
+Skill:
+  Name: Thành viên gia đình (Family Members)
+  Id: 3
+  
+New words:
+  - Word: Mpơaq
+    Translation: Bố
+    Also accepted:
+      - Cha
+      - Ba
+
+  - Word: Mpiq
+    Translation: Mẹ
+    Also accepted:
+      - Má
+
+  - Word: Ai
+    Translation: Anh
+    Also accepted:
+      - Anh trai
+
+  - Word: Ai ruaiq
+    Translation: Anh ruột
+
+  - Word: Ỡi
+    Translation: Chị
+    Also accepted:
+      - Chị gái
+
+  - Word: Ỡi ruaiq
+    Translation: Chị gái ruột
+
+  - Word: A-ễm
+    Translation: Em
+
+  - Word: Amuaq
+    Translation: Em gái
+
+  - Word: Kon
+    Translation: Con
+
+  - Word: Kon samiang
+    Translation: Con trai
+
+  - Word: Kon mansễm
+    Translation: Con gái
+
+  - Word: Achuaih
+    Translation: Ông
+
+  - Word: Ayơaq
+    Translation: Bà
+
+  - Word: Bak
+    Translation: Bác
+
+  - Word: Anhi
+    Translation: Chú
+
+  - Word: Dống sũ
+    Translation: Gia đình
+
+  - Word: Dống kứq
+    Translation: Gia đình tôi
+
+Phrases:
+  - Phrase: Dống kứq bữn tứp náq
+    Translation: Gia đình tôi có sáu người
+
+  - Phrase: Kon klúng ai la kon mansễm
+    Translation: Con đầu của anh là con gái
+
+  - Phrase: Ai ruaiq
+    Translation: Anh ruột
+
+Mini-dictionary:
+  Bru:
+    - Dống: Nhà/Gia đình
+    - kứq: tôi
+    - bữn: có
+    - náq: người
+    - kon: con
+    - klúng: đầu
+    - ruaiq: ruột
+    - sũ: nhà
+
+  Vietnamese:
+    - Bố: Mpơaq
+    - Mẹ: Mpiq
+    - Anh: Ai
+    - Chị: Ỡi
+    - Em: A-ễm
+    - Con: Kon
+    - Ông: Achuaih
+    - Bà: Ayơaq
+    - Gia đình: Dống sũ
+
