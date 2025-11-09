@@ -1,0 +1,489 @@
+{
+  "languageName": "Bru (Brũ Vân Kiều)",
+  "languageCode": "brv",
+  "uiLanguage": "vi",
+  "specialCharacters": [
+    "á",
+    "à",
+    "ả",
+    "ã",
+    "ạ",
+    "ă",
+    "ắ",
+    "ằ",
+    "ẳ",
+    "ẵ",
+    "ặ",
+    "â",
+    "ấ",
+    "ầ",
+    "ẩ",
+    "ẫ",
+    "ậ",
+    "é",
+    "è",
+    "ẻ",
+    "ẽ",
+    "ẹ",
+    "ê",
+    "ế",
+    "ề",
+    "ể",
+    "ễ",
+    "ệ",
+    "í",
+    "ì",
+    "ỉ",
+    "ĩ",
+    "ị",
+    "ó",
+    "ò",
+    "ỏ",
+    "õ",
+    "ọ",
+    "ô",
+    "ố",
+    "ồ",
+    "ổ",
+    "ỗ",
+    "ộ",
+    "ơ",
+    "ớ",
+    "ờ",
+    "ở",
+    "ỡ",
+    "ợ",
+    "ú",
+    "ù",
+    "ủ",
+    "ũ",
+    "ụ",
+    "ư",
+    "ứ",
+    "ừ",
+    "ử",
+    "ữ",
+    "ự",
+    "ý",
+    "ỳ",
+    "ỷ",
+    "ỹ",
+    "ỵ",
+    "đ"
+  ],
+  "repositoryURL": "https://github.com/LibreLingo/LibreLingo/",
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Cơ bản (Basics)",
+      "skills": [
+        {
+          "summary": [
+            "Bánh hỡ",
+            "Bánh tê",
+            "Avia karu",
+            "Anhi karu",
+            "Hếq sễm",
+            "Mũ sễm",
+            "Tayứng",
+            "Taku",
+            "Sa-ỡn",
+            "Ơq",
+            "Nơ",
+            "Bánh hỡ Avia karu",
+            "Bánh tê Hếq sễm",
+            "Ka lưp tayứng",
+            "Mũ sễm taku",
+            "Sa-ỡn"
+          ],
+          "practiceHref": "loi-chao-greetings",
+          "id": "569673478a3d",
+          "title": "Lời chào (Greetings)",
+          "levels": 4
+        },
+        {
+          "summary": [
+            "Kứq",
+            "Mơâi",
+            "Ramứh",
+            "Nơau",
+            "Ntrớu",
+            "Nái",
+            "Án",
+            "Hái",
+            "Alơâi",
+            "Bon",
+            "A-ễm",
+            "Kứq ramứh la Hong",
+            "Mơâi ramứh la ntrớu",
+            "Nay la nơau",
+            "Ta ngái nái",
+            "Kứq la TaHan",
+            "Nay la nơau"
+          ],
+          "practiceHref": "gioi-thieu-introductions",
+          "id": "38c2ea1c36d2",
+          "title": "Giới thiệu (Introductions)",
+          "levels": 4
+        }
+      ]
+    },
+    {
+      "title": "Gia đình (Family)",
+      "skills": [
+        {
+          "summary": [
+            "Mpơaq",
+            "Mpiq",
+            "Ai",
+            "Ai ruaiq",
+            "Ỡi",
+            "Ỡi ruaiq",
+            "A-ễm",
+            "Amuaq",
+            "Kon",
+            "Kon samiang",
+            "Kon mansễm",
+            "Achuaih",
+            "Ayơaq",
+            "Bak",
+            "Anhi",
+            "Dống sũ",
+            "Dống kứq",
+            "Dống kứq bữn tứp náq",
+            "Kon klúng ai la kon mansễm",
+            "Ai ruaiq"
+          ],
+          "practiceHref": "thanh-vien-gia-dinh-family-members",
+          "id": "d7279e4777cd",
+          "title": "Thành viên gia đình (Family Members)",
+          "levels": 4
+        },
+        {
+          "summary": [
+            "Kũai",
+            "Mansễm",
+            "Samiang",
+            "Kũai thâu",
+            "Kũai sayỡr",
+            "Karnễn",
+            "Kumũr",
+            "Kumán",
+            "Partiam",
+            "Lakuôi",
+            "Mũ",
+            "Kũai ranáq",
+            "Kũai thâu",
+            "Kũai sayỡr",
+            "Ku náq"
+          ],
+          "practiceHref": "con-nguoi-people",
+          "id": "379dca1c8ae9",
+          "title": "Con người (People)",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Số đếm (Numbers)",
+      "skills": [
+        {
+          "summary": [
+            "Muôi",
+            "Bar",
+            "Pái",
+            "Pỗn",
+            "Sỡng",
+            "Tapơât",
+            "Tapul",
+            "Takual",
+            "Takêh",
+            "Mu chứt",
+            "Chứt",
+            "Kứq mu chứt labar chô kumo",
+            "Bữn pái chứt lapái náq",
+            "Bữn bar chứt bar náq"
+          ],
+          "practiceHref": "so-co-ban-basic-numbers",
+          "id": "e859eeaa5871",
+          "title": "Số cơ bản (Basic Numbers)",
+          "levels": 3
+        },
+        {
+          "summary": [
+            "Bar chứt",
+            "Pái chứt",
+            "Pỗn chứt",
+            "Sỡng chứt",
+            "Mu kulám",
+            "Mu ngin",
+            "Bữn",
+            "Sếq",
+            "Chô",
+            "Kumo nái sếq chô",
+            "Mu kulám bar chứt ngin",
+            "Dống kứq bữn tứp náq"
+          ],
+          "practiceHref": "dem-counting",
+          "id": "e7c150774a40",
+          "title": "Đếm (Counting)",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Động vật (Animals)",
+      "skills": [
+        {
+          "summary": [
+            "Acho",
+            "Mễu",
+            "Ntruôi",
+            "Ntruôi tông",
+            "Ntruôi atu",
+            "Atia",
+            "Alik",
+            "Tariak",
+            "Atrơaq",
+            "Mbễq",
+            "Mantán",
+            "Kuaq ntruôi",
+            "Kuaq alik",
+            "Bán mantán"
+          ],
+          "practiceHref": "dong-vat-nha-domestic-animals",
+          "id": "c097516da9d5",
+          "title": "Động vật nhà (Domestic Animals)",
+          "levels": 3
+        },
+        {
+          "summary": [
+            "Yỡt",
+            "Achĩang",
+            "Sako",
+            "Chớm",
+            "Plĩng",
+            "Chap",
+            "Riak",
+            "Mễu kuruang",
+            "Ntruôi kruang",
+            "Sarán arưih",
+            "Rurơăh",
+            "Pỡq rurơăh",
+            "Rơăh pánh sarán arưih",
+            "Kariaq sarán arưih"
+          ],
+          "practiceHref": "dong-vat-rung-wild-animals",
+          "id": "27a92ea694cb",
+          "title": "Động vật rừng (Wild Animals)",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Ăn uống (Food & Drink)",
+      "skills": [
+        {
+          "summary": [
+            "Cha",
+            "Dỗi",
+            "Cha dỗi",
+            "Saro",
+            "Sĩaq",
+            "Bát",
+            "Sapơâi",
+            "Ắk tarễl",
+            "Sana cha",
+            "Krơng sana",
+            "Pơong",
+            "Sapua",
+            "Tarưp cha mầm pở học",
+            "Cha dỗi saréh",
+            "Ít ta ngan cha đôi"
+          ],
+          "practiceHref": "thuc-an-co-ban-basic-food",
+          "id": "62f74c5e3db9",
+          "title": "Thức ăn cơ bản (Basic Food)",
+          "levels": 3
+        },
+        {
+          "summary": [
+            "Priat",
+            "Nnhăq kam",
+            "Nnhăq chễng",
+            "Nnhăq băng",
+            "Tual",
+            "Panáih",
+            "Chữơq",
+            "Ahống",
+            "Nnhăq kĩt",
+            "Nnhăq",
+            "Aluang cha pasâi"
+          ],
+          "practiceHref": "hoa-qua-fruits",
+          "id": "d0bba2699bff",
+          "title": "Hoa quả (Fruits)",
+          "levels": 3
+        },
+        {
+          "summary": [
+            "Nguaiq",
+            "Dỡq",
+            "Dỡq bráh",
+            "Blắng",
+            "Blắng bia",
+            "Bia",
+            "Nguaiq bũl",
+            "Thớm",
+            "Nguaiq dỡq",
+            "Yớt dỡq bráh",
+            "Ít ta ngan"
+          ],
+          "practiceHref": "do-uong-drinks",
+          "id": "76a6c8df6b2b",
+          "title": "Đồ uống (Drinks)",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Thiên nhiên (Nature)",
+      "skills": [
+        {
+          "summary": [
+            "Kóh",
+            "Kóh sarỡih",
+            "Kóh king",
+            "Sarứng",
+            "Sarứng kóh",
+            "Pa sarứng",
+            "Krỗng",
+            "Amống",
+            "Talĩng",
+            "Dỡq lứn",
+            "Kutễq",
+            "Dũal",
+            "Rana",
+            "Dống kuruang",
+            "Sarứng kóh",
+            "Chu kóh",
+            "Tâng dũal"
+          ],
+          "practiceHref": "phong-canh-landscape",
+          "id": "75e952736a7f",
+          "title": "Phong cảnh (Landscape)",
+          "levels": 4
+        },
+        {
+          "summary": [
+            "Palơang",
+            "Mandang",
+            "Mia",
+            "Palơăng mia",
+            "Phũak",
+            "Kuyal",
+            "Phĩak",
+            "Kutâu",
+            "Leng",
+            "Sangễt",
+            "Thớm",
+            "Kutâu thớm",
+            "Palơăng mia",
+            "Palơang phũak",
+            "Klơan kuyal"
+          ],
+          "practiceHref": "thoi-tiet-weather",
+          "id": "f7ee2ecbddc1",
+          "title": "Thời tiết (Weather)",
+          "levels": 3
+        },
+        {
+          "summary": [
+            "Aluang",
+            "Piar",
+            "Ắk piar",
+            "Bát",
+            "Aluang cha pasâi",
+            "Aluang paryữl",
+            "Rô aluang",
+            "Viang piar",
+            "Sarắng",
+            "Pria",
+            "Chóh sarnóh",
+            "Chuchóh sarnóh",
+            "Sima aluang"
+          ],
+          "practiceHref": "cay-coi-plants",
+          "id": "0beaa60946f0",
+          "title": "Cây cối (Plants)",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Sinh hoạt hàng ngày (Daily Life)",
+      "skills": [
+        {
+          "summary": [
+            "Pỡq",
+            "Chu",
+            "Chu dống",
+            "Pỡq riên",
+            "Pỡq tutáq",
+            "Bếq",
+            "Tayứng",
+            "Taku",
+            "Mpơi",
+            "Cha dỗi",
+            "Tarưp",
+            "Tơâng",
+            "Ta bư",
+            "Sadớu",
+            "Tangáy",
+            "Tangáy nái",
+            "Tarưp pở học nơ",
+            "Ta bư pở tả xa ray",
+            "Chu dống",
+            "Pỡq lơăh dỗng"
+          ],
+          "practiceHref": "hoat-dong-hang-ngay-daily-activities",
+          "id": "82e89e72288d",
+          "title": "Hoạt động hàng ngày (Daily Activities)",
+          "levels": 4
+        },
+        {
+          "summary": [
+            "Sal ariên",
+            "Klống ariên",
+            "Lữp",
+            "Riên",
+            "Riên saráq",
+            "Pơ saráq",
+            "Pơ chơâiq",
+            "Sanĩk",
+            "Sanĩk chol",
+            "Sanĩk santứm",
+            "Kulỗiq chut",
+            "Pian liar",
+            "Pian raku",
+            "Karu ariên",
+            "Riên rangơaiq",
+            "Pỡq riên",
+            "Mut riên saráq",
+            "Rasa klống ariên"
+          ],
+          "practiceHref": "o-truong-at-school",
+          "id": "4873b8184638",
+          "title": "Ở trường (At School)",
+          "levels": 4
+        }
+      ]
+    }
+  ]
+}

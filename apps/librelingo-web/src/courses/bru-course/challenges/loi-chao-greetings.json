@@ -1,0 +1,694 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bánh hỡ Avia karu",
+      "meaningInSourceLanguage": "Chúng em chào cô ạ",
+      "id": "d51dd8bd0b58",
+      "priority": 0,
+      "group": "e0ea251e171b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Chúng",
+          "definition": "Hái\nHếq"
+        },
+        {
+          "word": "em",
+          "definition": "(em)\nsễm"
+        },
+        {
+          "word": "chào",
+          "definition": "Bánh hỡ\nBánh tê\nTabỡp"
+        },
+        {
+          "word": "cô",
+          "definition": "(Cô)\nAvia"
+        },
+        {
+          "word": "ạ",
+          "definition": "(particle)"
+        }
+      ],
+      "chips": [
+        "Bánh",
+        "hỡ",
+        "Avia",
+        "karu",
+        "Ka",
+        "la",
+        "Ta"
+      ],
+      "solutions": [
+        [
+          "Bánh",
+          "hỡ",
+          "Avia",
+          "karu"
+        ],
+        [
+          "Tabỡp",
+          "Avia",
+          "karu"
+        ]
+      ],
+      "formattedSolution": "Bánh hỡ Avia karu",
+      "id": "47c66adb47a5",
+      "priority": 2,
+      "group": "e0ea251e171b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Bánh",
+          "definition": "(greeting prefix)"
+        },
+        {
+          "word": "hỡ",
+          "definition": "(greeting)"
+        },
+        {
+          "word": "Avia",
+          "definition": "Cô"
+        },
+        {
+          "word": "karu",
+          "definition": "giáo"
+        }
+      ],
+      "chips": [
+        "Chúng",
+        "em",
+        "chào",
+        "cô",
+        "ạ",
+        "có",
+        "Cả",
+        "ơn",
+        "là"
+      ],
+      "solutions": [
+        [
+          "Chúng",
+          "em",
+          "chào",
+          "cô",
+          "ạ"
+        ]
+      ],
+      "formattedSolution": "Chúng em chào cô ạ",
+      "id": "5a78a3ccc5cf",
+      "priority": 2,
+      "group": "e0ea251e171b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bánh tê Hếq sễm",
+      "meaningInSourceLanguage": "Chào các em",
+      "id": "96fd6b76ac76",
+      "priority": 0,
+      "group": "0dacfc346b27"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Chào",
+          "definition": "Bánh hỡ\nBánh tê\nTabỡp"
+        },
+        {
+          "word": "các",
+          "definition": "Mũ"
+        },
+        {
+          "word": "em",
+          "definition": "(em)\nsễm"
+        }
+      ],
+      "chips": [
+        "Bánh",
+        "tê",
+        "Hếq",
+        "sễm",
+        "sếq",
+        "Bán",
+        "náq"
+      ],
+      "solutions": [
+        [
+          "Bánh",
+          "tê",
+          "Hếq",
+          "sễm"
+        ]
+      ],
+      "formattedSolution": "Bánh tê Hếq sễm",
+      "id": "6e485a9b6d6c",
+      "priority": 2,
+      "group": "0dacfc346b27"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Bánh",
+          "definition": "(greeting prefix)"
+        },
+        {
+          "word": "tê",
+          "definition": "(greeting)"
+        },
+        {
+          "word": "Hếq",
+          "definition": "Chúng"
+        },
+        {
+          "word": "sễm",
+          "definition": "em"
+        }
+      ],
+      "chips": [
+        "Chào",
+        "các",
+        "em",
+        "Các",
+        "chào"
+      ],
+      "solutions": [
+        [
+          "Chào",
+          "các",
+          "em"
+        ]
+      ],
+      "formattedSolution": "Chào các em",
+      "id": "5e478a6c78dc",
+      "priority": 2,
+      "group": "0dacfc346b27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ka lưp tayứng",
+      "meaningInSourceLanguage": "Cả lớp đứng dậy",
+      "id": "29e20dafcaca",
+      "priority": 0,
+      "group": "2f8164ea5a8b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Cả",
+          "definition": "Ka"
+        },
+        {
+          "word": "lớp",
+          "definition": "(lớp)\nlưp"
+        },
+        {
+          "word": "đứng",
+          "definition": "(Đứng)\nTayứng"
+        },
+        {
+          "word": "dậy",
+          "definition": "(particle)"
+        }
+      ],
+      "chips": [
+        "Ka",
+        "lưp",
+        "tayứng",
+        "la",
+        "Nay"
+      ],
+      "solutions": [
+        [
+          "Ka",
+          "lưp",
+          "tayứng"
+        ],
+        [
+          "Ka",
+          "lup",
+          "tayứng"
+        ]
+      ],
+      "formattedSolution": "Ka lưp tayứng",
+      "id": "d53da17dd745",
+      "priority": 2,
+      "group": "2f8164ea5a8b"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ka",
+          "definition": "cả"
+        },
+        {
+          "word": "lưp",
+          "definition": "lớp"
+        },
+        {
+          "word": "tayứng",
+          "definition": "(Tayứng)\nĐứng lên"
+        }
+      ],
+      "chips": [
+        "Cả",
+        "lớp",
+        "đứng",
+        "dậy",
+        "Cảm",
+        "ơn",
+        "là"
+      ],
+      "solutions": [
+        [
+          "Cả",
+          "lớp",
+          "đứng",
+          "dậy"
+        ]
+      ],
+      "formattedSolution": "Cả lớp đứng dậy",
+      "id": "e7fa1b9dcb92",
+      "priority": 2,
+      "group": "2f8164ea5a8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mũ sễm taku",
+      "meaningInSourceLanguage": "Các em ngồi xuống",
+      "id": "b4c4cd8cac4e",
+      "priority": 0,
+      "group": "436fde9006eb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Các",
+          "definition": "Mũ"
+        },
+        {
+          "word": "em",
+          "definition": "(em)\nsễm"
+        },
+        {
+          "word": "ngồi",
+          "definition": "(Ngồi)\nTaku"
+        },
+        {
+          "word": "xuống",
+          "definition": "(particle)\n(xuống)"
+        }
+      ],
+      "chips": [
+        "Mũ",
+        "sễm",
+        "taku",
+        "tê",
+        "Ka"
+      ],
+      "solutions": [
+        [
+          "Mũ",
+          "sễm",
+          "taku"
+        ]
+      ],
+      "formattedSolution": "Mũ sễm taku",
+      "id": "18583509d8ca",
+      "priority": 2,
+      "group": "436fde9006eb"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Mũ",
+          "definition": "(Mũ)\nCác\nHọ"
+        },
+        {
+          "word": "sễm",
+          "definition": "em"
+        },
+        {
+          "word": "taku",
+          "definition": "(Taku)\nNgồi xuống"
+        }
+      ],
+      "chips": [
+        "Các",
+        "em",
+        "ngồi",
+        "xuống",
+        "gái",
+        "các",
+        "Cả"
+      ],
+      "solutions": [
+        [
+          "Các",
+          "em",
+          "ngồi",
+          "xuống"
+        ]
+      ],
+      "formattedSolution": "Các em ngồi xuống",
+      "id": "dc284c2e36f9",
+      "priority": 2,
+      "group": "436fde9006eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sa-ỡn",
+      "meaningInSourceLanguage": "Cảm ơn",
+      "id": "9cbf53e16d6d",
+      "priority": 0,
+      "group": "c5c2b92b0652"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Bánh hỡ",
+      "meaningInSourceLanguage": "Chào",
+      "id": "084abdd2535c",
+      "priority": 0,
+      "group": "5bb55982202b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Bánh hỡ",
+        "Tabỡp"
+      ],
+      "phrase": [
+        {
+          "word": "Chào",
+          "definition": "Bánh hỡ\nBánh tê\nTabỡp"
+        }
+      ],
+      "id": "f1d549b7bde2",
+      "priority": 1,
+      "group": "5bb55982202b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Bánh tê",
+      "meaningInSourceLanguage": "Xin chào",
+      "id": "7dbbca8fcc45",
+      "priority": 0,
+      "group": "c933764ab0cb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Bánh tê"
+      ],
+      "phrase": [
+        {
+          "word": "Xin",
+          "definition": "(polite particle)"
+        },
+        {
+          "word": "chào",
+          "definition": "Bánh hỡ\nBánh tê\nTabỡp"
+        }
+      ],
+      "id": "85d21eb6c9ad",
+      "priority": 1,
+      "group": "c933764ab0cb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Avia karu",
+      "meaningInSourceLanguage": "Cô giáo",
+      "id": "5307db4f3d80",
+      "priority": 0,
+      "group": "5fc4141d693b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Avia karu"
+      ],
+      "phrase": [
+        {
+          "word": "Cô",
+          "definition": "(Cô)\nAvia"
+        },
+        {
+          "word": "giáo",
+          "definition": "(giáo)\nkaru"
+        }
+      ],
+      "id": "380a55ab64de",
+      "priority": 1,
+      "group": "5fc4141d693b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Anhi karu",
+      "meaningInSourceLanguage": "Thầy giáo",
+      "id": "79745e221238",
+      "priority": 0,
+      "group": "755aa2b7dd51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Anhi karu"
+      ],
+      "phrase": [
+        {
+          "word": "Thầy",
+          "definition": "Anhi"
+        },
+        {
+          "word": "giáo",
+          "definition": "(giáo)\nkaru"
+        }
+      ],
+      "id": "e6f9cdbb00a2",
+      "priority": 1,
+      "group": "755aa2b7dd51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Hếq sễm",
+      "meaningInSourceLanguage": "Chúng em",
+      "id": "3a1ea6373864",
+      "priority": 0,
+      "group": "4949a517d485"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Hếq sễm"
+      ],
+      "phrase": [
+        {
+          "word": "Chúng",
+          "definition": "Hái\nHếq"
+        },
+        {
+          "word": "em",
+          "definition": "(em)\nsễm"
+        }
+      ],
+      "id": "961eef5ddd20",
+      "priority": 1,
+      "group": "4949a517d485"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Mũ sễm",
+      "meaningInSourceLanguage": "Các em",
+      "id": "c574aae85c3f",
+      "priority": 0,
+      "group": "07838ae56518"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Mũ sễm"
+      ],
+      "phrase": [
+        {
+          "word": "Các",
+          "definition": "Mũ"
+        },
+        {
+          "word": "em",
+          "definition": "(em)\nsễm"
+        }
+      ],
+      "id": "3a0339f01efd",
+      "priority": 1,
+      "group": "07838ae56518"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Tayứng",
+      "meaningInSourceLanguage": "Đứng lên",
+      "id": "b56579731b89",
+      "priority": 0,
+      "group": "59c840207b2d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Tayứng"
+      ],
+      "phrase": [
+        {
+          "word": "Đứng",
+          "definition": "(Đứng)\nTayứng"
+        },
+        {
+          "word": "lên",
+          "definition": "(lên)\n(particle)"
+        }
+      ],
+      "id": "f53975bb898e",
+      "priority": 1,
+      "group": "59c840207b2d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Taku",
+      "meaningInSourceLanguage": "Ngồi xuống",
+      "id": "6456c7ee43da",
+      "priority": 0,
+      "group": "17e33f685bc5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Taku"
+      ],
+      "phrase": [
+        {
+          "word": "Ngồi",
+          "definition": "(Ngồi)\nTaku"
+        },
+        {
+          "word": "xuống",
+          "definition": "(particle)\n(xuống)"
+        }
+      ],
+      "id": "191efdaedd4e",
+      "priority": 1,
+      "group": "17e33f685bc5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Sa-ỡn",
+      "meaningInSourceLanguage": "Cảm ơn",
+      "id": "af88892b9d8d",
+      "priority": 0,
+      "group": "6b6789af2f22"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Sa-ỡn"
+      ],
+      "phrase": [
+        {
+          "word": "Cảm",
+          "definition": "Sa"
+        },
+        {
+          "word": "ơn",
+          "definition": "ỡn"
+        }
+      ],
+      "id": "0648bf3a6e33",
+      "priority": 1,
+      "group": "6b6789af2f22"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Ơq",
+      "meaningInSourceLanguage": "Vâng",
+      "id": "5ececab0624a",
+      "priority": 0,
+      "group": "bc45cf341468"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Ơq"
+      ],
+      "phrase": [
+        {
+          "word": "Vâng",
+          "definition": "Ơq"
+        }
+      ],
+      "id": "d78d9e0b7225",
+      "priority": 1,
+      "group": "bc45cf341468"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nơ",
+      "meaningInSourceLanguage": "Nhé",
+      "id": "45cbcee7da42",
+      "priority": 0,
+      "group": "a5429e7f68d5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nơ"
+      ],
+      "phrase": [
+        {
+          "word": "Nhé",
+          "definition": "Nơ"
+        }
+      ],
+      "id": "09567306ea8e",
+      "priority": 1,
+      "group": "a5429e7f68d5"
+    }
+  ]
+}

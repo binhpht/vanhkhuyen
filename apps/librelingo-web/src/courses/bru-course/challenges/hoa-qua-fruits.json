@@ -1,0 +1,340 @@
+{
+  "id": "d0bba2699bff",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Aluang cha pasâi",
+      "meaningInSourceLanguage": "Cây ăn quả",
+      "id": "52c594914006",
+      "priority": 0,
+      "group": "061b6d74d4a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Cây",
+          "definition": "(Cây)\nAluang"
+        },
+        {
+          "word": "ăn",
+          "definition": "(Ăn)\nCha"
+        },
+        {
+          "word": "quả",
+          "definition": "Nnhăq"
+        }
+      ],
+      "chips": [
+        "Aluang",
+        "cha",
+        "pasâi",
+        "la",
+        "Ka"
+      ],
+      "solutions": [
+        [
+          "Aluang",
+          "cha",
+          "pasâi"
+        ]
+      ],
+      "formattedSolution": "Aluang cha pasâi",
+      "id": "f24d43f329ac",
+      "priority": 2,
+      "group": "061b6d74d4a8"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Aluang",
+          "definition": "Cây\ncây"
+        },
+        {
+          "word": "cha",
+          "definition": "Ăn\năn"
+        },
+        {
+          "word": "pasâi",
+          "definition": "(pasâi)\nquả (ăn được)"
+        }
+      ],
+      "chips": [
+        "Cây",
+        "ăn",
+        "quả",
+        "Cả",
+        "ơn"
+      ],
+      "solutions": [
+        [
+          "Cây",
+          "ăn",
+          "quả"
+        ]
+      ],
+      "formattedSolution": "Cây ăn quả",
+      "id": "fe723dcb031b",
+      "priority": 2,
+      "group": "061b6d74d4a8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Priat",
+      "meaningInSourceLanguage": "Chuối",
+      "id": "1541c6bf1085",
+      "priority": 0,
+      "group": "54c4c0e0dcb4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Priat"
+      ],
+      "phrase": [
+        {
+          "word": "Chuối",
+          "definition": "Priat"
+        }
+      ],
+      "id": "537169747afe",
+      "priority": 1,
+      "group": "54c4c0e0dcb4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nnhăq kam",
+      "meaningInSourceLanguage": "Cam",
+      "id": "4ff7b0745bdb",
+      "priority": 0,
+      "group": "73867e01ccab"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nnhăq kam"
+      ],
+      "phrase": [
+        {
+          "word": "Cam",
+          "definition": "Nnhăq kam"
+        }
+      ],
+      "id": "d6e60ec1ac4e",
+      "priority": 1,
+      "group": "73867e01ccab"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nnhăq chễng",
+      "meaningInSourceLanguage": "Chanh",
+      "id": "c51586492bb3",
+      "priority": 0,
+      "group": "40dbeceb9efd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nnhăq chễng"
+      ],
+      "phrase": [
+        {
+          "word": "Chanh",
+          "definition": "Nnhăq chễng"
+        }
+      ],
+      "id": "aa3bc8a10684",
+      "priority": 1,
+      "group": "40dbeceb9efd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nnhăq băng",
+      "meaningInSourceLanguage": "Bưởi",
+      "id": "74a8bba9c4ba",
+      "priority": 0,
+      "group": "8cb28cee5764"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nnhăq băng"
+      ],
+      "phrase": [
+        {
+          "word": "Bưởi",
+          "definition": "Nnhăq băng"
+        }
+      ],
+      "id": "2c730fe46958",
+      "priority": 1,
+      "group": "8cb28cee5764"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Tual",
+      "meaningInSourceLanguage": "Xoài",
+      "id": "cdede7bfeb10",
+      "priority": 0,
+      "group": "43d9d125c509"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Tual"
+      ],
+      "phrase": [
+        {
+          "word": "Xoài",
+          "definition": "Tual"
+        }
+      ],
+      "id": "edd238a25c08",
+      "priority": 1,
+      "group": "43d9d125c509"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Panáih",
+      "meaningInSourceLanguage": "Mít",
+      "id": "3945a9cca812",
+      "priority": 0,
+      "group": "ad22db748f90"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Panáih"
+      ],
+      "phrase": [
+        {
+          "word": "Mít",
+          "definition": "Panáih"
+        }
+      ],
+      "id": "982ee12faa50",
+      "priority": 1,
+      "group": "ad22db748f90"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Chữơq",
+      "meaningInSourceLanguage": "Dứa",
+      "id": "3be797465476",
+      "priority": 0,
+      "group": "5df761804d5e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Chữơq"
+      ],
+      "phrase": [
+        {
+          "word": "Dứa",
+          "definition": "Chữơq"
+        }
+      ],
+      "id": "712bbf5d35dc",
+      "priority": 1,
+      "group": "5df761804d5e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Ahống",
+      "meaningInSourceLanguage": "Đu đủ",
+      "id": "3c4d29c47c6f",
+      "priority": 0,
+      "group": "b191edb93733"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Ahống"
+      ],
+      "phrase": [
+        {
+          "word": "Đu",
+          "definition": "(Đu)"
+        },
+        {
+          "word": "đủ",
+          "definition": "(đủ)"
+        }
+      ],
+      "id": "efab18aa51e5",
+      "priority": 1,
+      "group": "b191edb93733"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nnhăq kĩt",
+      "meaningInSourceLanguage": "Quýt",
+      "id": "337c34bb1e8e",
+      "priority": 0,
+      "group": "44daab8ca30f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nnhăq kĩt"
+      ],
+      "phrase": [
+        {
+          "word": "Quýt",
+          "definition": "(Quýt)\nNnhăq kĩt"
+        }
+      ],
+      "id": "2564dc3c93ce",
+      "priority": 1,
+      "group": "44daab8ca30f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nnhăq",
+      "meaningInSourceLanguage": "Quả",
+      "id": "da688f874347",
+      "priority": 0,
+      "group": "75f83beb1269"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nnhăq"
+      ],
+      "phrase": [
+        {
+          "word": "Quả",
+          "definition": "Nnhăq"
+        }
+      ],
+      "id": "7b23cdd4dc9f",
+      "priority": 1,
+      "group": "75f83beb1269"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "id": "76a6c8df6b2b",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nguaiq dỡq",
+      "meaningInSourceLanguage": "Uống nước",
+      "id": "fb9b72344dc9",
+      "priority": 0,
+      "group": "807a147ab24a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Uống",
+          "definition": "Nguaiq"
+        },
+        {
+          "word": "nước",
+          "definition": "Dỡq"
+        }
+      ],
+      "chips": [
+        "Nguaiq",
+        "dỡq",
+        "ruaiq",
+        "Kuaq"
+      ],
+      "solutions": [
+        [
+          "Nguaiq",
+          "dỡq"
+        ]
+      ],
+      "formattedSolution": "Nguaiq dỡq",
+      "id": "bd65ecc80d11",
+      "priority": 2,
+      "group": "807a147ab24a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Nguaiq",
+          "definition": "Uống\nuống"
+        },
+        {
+          "word": "dỡq",
+          "definition": "Nước\nnước"
+        }
+      ],
+      "chips": [
+        "Uống",
+        "nước",
+        "nắng",
+        "đứng"
+      ],
+      "solutions": [
+        [
+          "Uống",
+          "nước"
+        ]
+      ],
+      "formattedSolution": "Uống nước",
+      "id": "a5c3519af3de",
+      "priority": 2,
+      "group": "807a147ab24a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yớt dỡq bráh",
+      "meaningInSourceLanguage": "Đưa nước sạch",
+      "id": "77a6afb51f32",
+      "priority": 0,
+      "group": "7ce76098f8bf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Đưa",
+          "definition": "(Đưa)"
+        },
+        {
+          "word": "nước",
+          "definition": "Dỡq"
+        },
+        {
+          "word": "sạch",
+          "definition": "bráh"
+        }
+      ],
+      "chips": [
+        "Yớt",
+        "dỡq",
+        "bráh",
+        "náq",
+        "Pỡq"
+      ],
+      "solutions": [
+        [
+          "Yớt",
+          "dỡq",
+          "bráh"
+        ]
+      ],
+      "formattedSolution": "Yớt dỡq bráh",
+      "id": "69becbd85673",
+      "priority": 2,
+      "group": "7ce76098f8bf"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Yớt",
+          "definition": "dẫn/đưa"
+        },
+        {
+          "word": "dỡq",
+          "definition": "Nước\nnước"
+        },
+        {
+          "word": "bráh",
+          "definition": "sạch"
+        }
+      ],
+      "chips": [
+        "Đưa",
+        "nước",
+        "sạch",
+        "súc",
+        "mưa"
+      ],
+      "solutions": [
+        [
+          "Đưa",
+          "nước",
+          "sạch"
+        ]
+      ],
+      "formattedSolution": "Đưa nước sạch",
+      "id": "a9d5d0dd6cf8",
+      "priority": 2,
+      "group": "7ce76098f8bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ít ta ngan",
+      "meaningInSourceLanguage": "Lấy bát",
+      "id": "67921095d59f",
+      "priority": 0,
+      "group": "db91bac3f1b0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Lấy",
+          "definition": "(Lấy)"
+        },
+        {
+          "word": "bát",
+          "definition": "(bát)"
+        }
+      ],
+      "chips": [
+        "Ít",
+        "ta",
+        "ngan",
+        "Ka",
+        "la"
+      ],
+      "solutions": [
+        [
+          "Ít",
+          "ta",
+          "ngan"
+        ]
+      ],
+      "formattedSolution": "Ít ta ngan",
+      "id": "57babbc5e403",
+      "priority": 2,
+      "group": "db91bac3f1b0"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ít",
+          "definition": "(Ít)"
+        },
+        {
+          "word": "ta",
+          "definition": "(Ta)\n(time particle)"
+        },
+        {
+          "word": "ngan",
+          "definition": "(ngan)"
+        }
+      ],
+      "chips": [
+        "Lấy",
+        "bát",
+        "bắt",
+        "các"
+      ],
+      "solutions": [
+        [
+          "Lấy",
+          "bát"
+        ]
+      ],
+      "formattedSolution": "Lấy bát",
+      "id": "d532e7292130",
+      "priority": 2,
+      "group": "db91bac3f1b0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nguaiq",
+      "meaningInSourceLanguage": "Uống",
+      "id": "d6c973942fcb",
+      "priority": 0,
+      "group": "88229d8349dd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nguaiq"
+      ],
+      "phrase": [
+        {
+          "word": "Uống",
+          "definition": "Nguaiq"
+        }
+      ],
+      "id": "35eae8e580bf",
+      "priority": 1,
+      "group": "88229d8349dd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Dỡq",
+      "meaningInSourceLanguage": "Nước",
+      "id": "89cfc6e3541a",
+      "priority": 0,
+      "group": "2c441359238e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Dỡq"
+      ],
+      "phrase": [
+        {
+          "word": "Nước",
+          "definition": "Dỡq"
+        }
+      ],
+      "id": "c7cb1ce3eb35",
+      "priority": 1,
+      "group": "2c441359238e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Dỡq bráh",
+      "meaningInSourceLanguage": "Nước sạch",
+      "id": "6c2a86c0fd57",
+      "priority": 0,
+      "group": "fe050e259f58"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Dỡq bráh"
+      ],
+      "phrase": [
+        {
+          "word": "Nước",
+          "definition": "Dỡq"
+        },
+        {
+          "word": "sạch",
+          "definition": "bráh"
+        }
+      ],
+      "id": "59e3281e3703",
+      "priority": 1,
+      "group": "fe050e259f58"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Blắng",
+      "meaningInSourceLanguage": "Rượu",
+      "id": "fa16dc42bce8",
+      "priority": 0,
+      "group": "1d3986411578"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Blắng"
+      ],
+      "phrase": [
+        {
+          "word": "Rượu",
+          "definition": "Blắng"
+        }
+      ],
+      "id": "ea584d329799",
+      "priority": 1,
+      "group": "1d3986411578"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Blắng bia",
+      "meaningInSourceLanguage": "Rượu bia",
+      "id": "08e759674930",
+      "priority": 0,
+      "group": "24448dbf9fc7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Blắng bia"
+      ],
+      "phrase": [
+        {
+          "word": "Rượu",
+          "definition": "Blắng"
+        },
+        {
+          "word": "bia",
+          "definition": "Bia"
+        }
+      ],
+      "id": "df5b37a26419",
+      "priority": 1,
+      "group": "24448dbf9fc7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Bia",
+      "meaningInSourceLanguage": "Bia",
+      "id": "c036a4783934",
+      "priority": 0,
+      "group": "45eed91a392f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Bia"
+      ],
+      "phrase": [
+        {
+          "word": "Bia",
+          "definition": "Bia"
+        }
+      ],
+      "id": "33abf13d1ac9",
+      "priority": 1,
+      "group": "45eed91a392f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nguaiq bũl",
+      "meaningInSourceLanguage": "Uống say",
+      "id": "d5ca6fb9a5cf",
+      "priority": 0,
+      "group": "8c917be78b82"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nguaiq bũl"
+      ],
+      "phrase": [
+        {
+          "word": "Uống",
+          "definition": "Nguaiq"
+        },
+        {
+          "word": "say",
+          "definition": "bũl"
+        }
+      ],
+      "id": "260e2ead651b",
+      "priority": 1,
+      "group": "8c917be78b82"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Thớm",
+      "meaningInSourceLanguage": "Ấm",
+      "id": "e443e4400be3",
+      "priority": 0,
+      "group": "fc49da1e099c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Thớm"
+      ],
+      "phrase": [
+        {
+          "word": "Ấm",
+          "definition": "(Ấm)\nThớm"
+        }
+      ],
+      "id": "10d16c0682bf",
+      "priority": 1,
+      "group": "fc49da1e099c"
+    }
+  ]
+}
