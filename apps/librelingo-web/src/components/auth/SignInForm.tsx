@@ -28,8 +28,8 @@ export function SignInForm() {
         router.push('/')
         router.refresh()
       }
-    } catch (error) {
-      console.error('Sign in error:', error)
+    } catch (signInError) {
+      console.error('Sign in error:', signInError)
     } finally {
       setIsLoading(false)
     }

@@ -34,8 +34,8 @@ export function useProgress(courseId: string, skillId: string) {
         if (skillProgress) {
           setProgress(skillProgress)
         }
-      } catch (e) {
-        console.error('Error loading progress:', e)
+      } catch (error) {
+        console.error('Error loading progress:', error)
       }
     }
   }, [session, courseId, skillId])
@@ -50,8 +50,8 @@ export function useProgress(courseId: string, skillId: string) {
     if (stored) {
       try {
         allProgress = JSON.parse(stored)
-      } catch (e) {
-        console.error('Error parsing progress:', e)
+      } catch (error) {
+        console.error('Error parsing progress:', error)
       }
     }
 
@@ -89,8 +89,8 @@ export function useAllCourseProgress(courseId: string) {
         const allProgress: CourseProgress = JSON.parse(stored)
         const courseProgress = allProgress[courseId] || {}
         setProgress(courseProgress)
-      } catch (e) {
-        console.error('Error loading progress:', e)
+      } catch (error) {
+        console.error('Error loading progress:', error)
       }
     }
   }, [session, courseId])

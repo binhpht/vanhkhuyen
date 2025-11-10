@@ -27,8 +27,8 @@ export default function DictionaryPage() {
         setEntries(data)
         setIsLoading(false)
       })
-      .catch(err => {
-        console.error('Error loading dictionary:', err)
+      .catch(error => {
+        console.error('Error loading dictionary:', error)
         setIsLoading(false)
       })
   }, [])
