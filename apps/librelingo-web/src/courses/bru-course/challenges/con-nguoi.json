@@ -1,0 +1,587 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kũai ranáq",
+      "meaningInSourceLanguage": "Người lao động",
+      "id": "cb7febc8cb9a",
+      "priority": 0,
+      "group": "49fceaffaeb1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Người",
+          "definition": "(người)"
+        },
+        {
+          "word": "lao",
+          "definition": "(lao)"
+        },
+        {
+          "word": "động",
+          "definition": "(động)"
+        }
+      ],
+      "chips": [
+        "Kũai",
+        "ranáq",
+        "Ka",
+        "nái"
+      ],
+      "solutions": [
+        [
+          "Kũai",
+          "ranáq"
+        ]
+      ],
+      "formattedSolution": "Kũai ranáq",
+      "id": "72b9847ef5a2",
+      "priority": 2,
+      "group": "49fceaffaeb1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kũai",
+          "definition": "Người"
+        },
+        {
+          "word": "ranáq",
+          "definition": "lao động"
+        }
+      ],
+      "chips": [
+        "Người",
+        "lao",
+        "động",
+        "đứng",
+        "ai"
+      ],
+      "solutions": [
+        [
+          "Người",
+          "lao",
+          "động"
+        ]
+      ],
+      "formattedSolution": "Người lao động",
+      "id": "44f1b0869fe6",
+      "priority": 2,
+      "group": "49fceaffaeb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kũai thâu",
+      "meaningInSourceLanguage": "Người già",
+      "id": "cc64216bb54a",
+      "priority": 0,
+      "group": "84a93fa22552"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Người",
+          "definition": "(người)"
+        },
+        {
+          "word": "già",
+          "definition": "thâu"
+        }
+      ],
+      "chips": [
+        "Kũai",
+        "thâu",
+        "Ka",
+        "taku"
+      ],
+      "solutions": [
+        [
+          "Kũai",
+          "thâu"
+        ]
+      ],
+      "formattedSolution": "Kũai thâu",
+      "id": "97c7b0f9192e",
+      "priority": 2,
+      "group": "84a93fa22552"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kũai",
+          "definition": "Người"
+        },
+        {
+          "word": "thâu",
+          "definition": "già"
+        }
+      ],
+      "chips": [
+        "Người",
+        "già",
+        "người",
+        "gái"
+      ],
+      "solutions": [
+        [
+          "Người",
+          "già"
+        ]
+      ],
+      "formattedSolution": "Người già",
+      "id": "4f2516c70542",
+      "priority": 2,
+      "group": "84a93fa22552"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kũai sayỡr",
+      "meaningInSourceLanguage": "Thanh niên",
+      "id": "9b6992ab8616",
+      "priority": 0,
+      "group": "8f7767df864a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Thanh",
+          "definition": "(Thanh)"
+        },
+        {
+          "word": "niên",
+          "definition": "(niên)"
+        }
+      ],
+      "chips": [
+        "Kũai",
+        "sayỡr",
+        "Ka",
+        "Nay"
+      ],
+      "solutions": [
+        [
+          "Kũai",
+          "sayỡr"
+        ]
+      ],
+      "formattedSolution": "Kũai sayỡr",
+      "id": "c158cf0bc8a4",
+      "priority": 2,
+      "group": "8f7767df864a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kũai",
+          "definition": "Người"
+        },
+        {
+          "word": "sayỡr",
+          "definition": "thanh niên"
+        }
+      ],
+      "chips": [
+        "Thanh",
+        "niên",
+        "Trên",
+        "tên"
+      ],
+      "solutions": [
+        [
+          "Thanh",
+          "niên"
+        ]
+      ],
+      "formattedSolution": "Thanh niên",
+      "id": "18894bddf7df",
+      "priority": 2,
+      "group": "8f7767df864a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ku náq",
+      "meaningInSourceLanguage": "Mọi người",
+      "id": "49ba659d6283",
+      "priority": 0,
+      "group": "b1991fc61813"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Mọi",
+          "definition": "(Mọi)"
+        },
+        {
+          "word": "người",
+          "definition": "(người)"
+        }
+      ],
+      "chips": [
+        "Ku",
+        "náq",
+        "Ka",
+        "Kứq"
+      ],
+      "solutions": [
+        [
+          "Ku",
+          "náq"
+        ]
+      ],
+      "formattedSolution": "Ku náq",
+      "id": "cc9c81a2b5ca",
+      "priority": 2,
+      "group": "b1991fc61813"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ku",
+          "definition": "mọi"
+        },
+        {
+          "word": "náq",
+          "definition": "người"
+        }
+      ],
+      "chips": [
+        "Mọi",
+        "người",
+        "ngồi",
+        "gái"
+      ],
+      "solutions": [
+        [
+          "Mọi",
+          "người"
+        ]
+      ],
+      "formattedSolution": "Mọi người",
+      "id": "3dc863e000c3",
+      "priority": 2,
+      "group": "b1991fc61813"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Kũai",
+      "meaningInSourceLanguage": "Người",
+      "id": "2dc38817076b",
+      "priority": 0,
+      "group": "7afcbb28f8ce"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Kũai"
+      ],
+      "phrase": [
+        {
+          "word": "Người",
+          "definition": "(người)"
+        }
+      ],
+      "id": "31a2b0030188",
+      "priority": 1,
+      "group": "7afcbb28f8ce"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Mansễm",
+      "meaningInSourceLanguage": "Phụ nữ",
+      "id": "8f3047a0f5d4",
+      "priority": 0,
+      "group": "24b0d94146f1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Mansễm"
+      ],
+      "phrase": [
+        {
+          "word": "Phụ",
+          "definition": "(Phụ)"
+        },
+        {
+          "word": "nữ",
+          "definition": "(nữ)"
+        }
+      ],
+      "id": "18e6c7c611ff",
+      "priority": 1,
+      "group": "24b0d94146f1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Samiang",
+      "meaningInSourceLanguage": "Nam",
+      "id": "b8a25017170a",
+      "priority": 0,
+      "group": "c616da438070"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Samiang"
+      ],
+      "phrase": [
+        {
+          "word": "Nam",
+          "definition": "(nam)"
+        }
+      ],
+      "id": "95f9f7f937e8",
+      "priority": 1,
+      "group": "c616da438070"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Kũai thâu",
+      "meaningInSourceLanguage": "Người già",
+      "id": "3389e8c8f59d",
+      "priority": 0,
+      "group": "50e858fb791d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Kũai thâu"
+      ],
+      "phrase": [
+        {
+          "word": "Người",
+          "definition": "(người)"
+        },
+        {
+          "word": "già",
+          "definition": "thâu"
+        }
+      ],
+      "id": "55bef152c964",
+      "priority": 1,
+      "group": "50e858fb791d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Kũai sayỡr",
+      "meaningInSourceLanguage": "Thanh niên",
+      "id": "52d8ecd569d9",
+      "priority": 0,
+      "group": "2a8c63fafc3c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Kũai sayỡr"
+      ],
+      "phrase": [
+        {
+          "word": "Thanh",
+          "definition": "(Thanh)"
+        },
+        {
+          "word": "niên",
+          "definition": "(niên)"
+        }
+      ],
+      "id": "81bc9c0d5d95",
+      "priority": 1,
+      "group": "2a8c63fafc3c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Karnễn",
+      "meaningInSourceLanguage": "Trẻ em",
+      "id": "fec79af90c32",
+      "priority": 0,
+      "group": "75a91d6807d5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Karnễn"
+      ],
+      "phrase": [
+        {
+          "word": "Trẻ",
+          "definition": "(Trẻ)"
+        },
+        {
+          "word": "em",
+          "definition": "(em)\nsễm"
+        }
+      ],
+      "id": "d528699c5ed4",
+      "priority": 1,
+      "group": "75a91d6807d5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Kumũr",
+      "meaningInSourceLanguage": "Cô gái",
+      "id": "23fcb6b15f6d",
+      "priority": 0,
+      "group": "fe9b2b87f22a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Kumũr"
+      ],
+      "phrase": [
+        {
+          "word": "Cô",
+          "definition": "(Cô)\nAvia"
+        },
+        {
+          "word": "gái",
+          "definition": "(gái)"
+        }
+      ],
+      "id": "4e1207cb9359",
+      "priority": 1,
+      "group": "fe9b2b87f22a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Kumán",
+      "meaningInSourceLanguage": "Con dâu",
+      "id": "440b745cd6be",
+      "priority": 0,
+      "group": "e45cb059ecf1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Kumán"
+      ],
+      "phrase": [
+        {
+          "word": "Con",
+          "definition": "(Con)\nKon"
+        },
+        {
+          "word": "dâu",
+          "definition": "(dâu)"
+        }
+      ],
+      "id": "800a2edad6d0",
+      "priority": 1,
+      "group": "e45cb059ecf1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Partiam",
+      "meaningInSourceLanguage": "Con rể",
+      "id": "24f9f9a8071e",
+      "priority": 0,
+      "group": "ee40385581c9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Partiam"
+      ],
+      "phrase": [
+        {
+          "word": "Con",
+          "definition": "(Con)\nKon"
+        },
+        {
+          "word": "rể",
+          "definition": "(rể)"
+        }
+      ],
+      "id": "0af98aa6b27d",
+      "priority": 1,
+      "group": "ee40385581c9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Lakuôi",
+      "meaningInSourceLanguage": "Vợ",
+      "id": "6b59c2fc93a7",
+      "priority": 0,
+      "group": "4f882227530c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Lakuôi"
+      ],
+      "phrase": [
+        {
+          "word": "Vợ",
+          "definition": "(Vợ)\nLakuôi"
+        }
+      ],
+      "id": "4ac5fa65409a",
+      "priority": 1,
+      "group": "4f882227530c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Mũ",
+      "meaningInSourceLanguage": "Họ",
+      "id": "62782b1dc9c7",
+      "priority": 0,
+      "group": "6ee685349c1d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Mũ"
+      ],
+      "phrase": [
+        {
+          "word": "Họ",
+          "definition": "(Họ)\nAlơâi\nMũ"
+        }
+      ],
+      "id": "e4099b2e896b",
+      "priority": 1,
+      "group": "6ee685349c1d"
+    }
+  ]
+}

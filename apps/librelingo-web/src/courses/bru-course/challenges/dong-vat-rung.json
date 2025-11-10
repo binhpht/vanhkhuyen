@@ -1,0 +1,562 @@
+{
+  "id": "27a92ea694cb",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pỡq rurơăh",
+      "meaningInSourceLanguage": "Đi săn",
+      "id": "75bec3f31a28",
+      "priority": 0,
+      "group": "c9639a7e484f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Đi",
+          "definition": "(Đi)\nPỡq"
+        },
+        {
+          "word": "săn",
+          "definition": "Rurơăh"
+        }
+      ],
+      "chips": [
+        "Pỡq",
+        "rurơăh",
+        "Rơăh",
+        "dỡq"
+      ],
+      "solutions": [
+        [
+          "Pỡq",
+          "rurơăh"
+        ]
+      ],
+      "formattedSolution": "Pỡq rurơăh",
+      "id": "8b6e1e75de06",
+      "priority": 2,
+      "group": "c9639a7e484f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Pỡq",
+          "definition": "(Pỡq)\nĐi\nđi"
+        },
+        {
+          "word": "rurơăh",
+          "definition": "Săn thú\nsăn"
+        }
+      ],
+      "chips": [
+        "Đi",
+        "săn",
+        "ăn",
+        "ơn"
+      ],
+      "solutions": [
+        [
+          "Đi",
+          "săn"
+        ]
+      ],
+      "formattedSolution": "Đi săn",
+      "id": "43964d03cfba",
+      "priority": 2,
+      "group": "c9639a7e484f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Rơăh pánh sarán arưih",
+      "meaningInSourceLanguage": "Săn bắt thú rừng",
+      "id": "661cf833b6d3",
+      "priority": 0,
+      "group": "09afc76b529e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Săn",
+          "definition": "Rurơăh"
+        },
+        {
+          "word": "bắt",
+          "definition": "(bắt)"
+        },
+        {
+          "word": "thú",
+          "definition": "(thú)"
+        },
+        {
+          "word": "rừng",
+          "definition": "Sarứng\narưih, kuruang"
+        }
+      ],
+      "chips": [
+        "Rơăh",
+        "pánh",
+        "sarán",
+        "arưih",
+        "Bánh",
+        "bráh",
+        "saréh"
+      ],
+      "solutions": [
+        [
+          "Rơăh",
+          "pánh",
+          "sarán",
+          "arưih"
+        ]
+      ],
+      "formattedSolution": "Rơăh pánh sarán arưih",
+      "id": "9d86dc1155b5",
+      "priority": 2,
+      "group": "09afc76b529e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Rơăh",
+          "definition": "(Rơăh)"
+        },
+        {
+          "word": "pánh",
+          "definition": "(pánh)"
+        },
+        {
+          "word": "sarán",
+          "definition": "thú"
+        },
+        {
+          "word": "arưih",
+          "definition": "rừng"
+        }
+      ],
+      "chips": [
+        "Săn",
+        "bắt",
+        "thú",
+        "rừng",
+        "tên",
+        "săn",
+        "ăn"
+      ],
+      "solutions": [
+        [
+          "Săn",
+          "bắt",
+          "thú",
+          "rừng"
+        ]
+      ],
+      "formattedSolution": "Săn bắt thú rừng",
+      "id": "571834baad89",
+      "priority": 2,
+      "group": "09afc76b529e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kariaq sarán arưih",
+      "meaningInSourceLanguage": "Bảo vệ thú rừng",
+      "id": "1cbcc03182fa",
+      "priority": 0,
+      "group": "477c649f63b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Bảo",
+          "definition": "(Bảo)"
+        },
+        {
+          "word": "vệ",
+          "definition": "(vệ)"
+        },
+        {
+          "word": "thú",
+          "definition": "(thú)"
+        },
+        {
+          "word": "rừng",
+          "definition": "Sarứng\narưih, kuruang"
+        }
+      ],
+      "chips": [
+        "Kariaq",
+        "sarán",
+        "arưih",
+        "saráq",
+        "saréh"
+      ],
+      "solutions": [
+        [
+          "Kariaq",
+          "sarán",
+          "arưih"
+        ]
+      ],
+      "formattedSolution": "Kariaq sarán arưih",
+      "id": "424fa8fd7777",
+      "priority": 2,
+      "group": "477c649f63b1"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Kariaq",
+          "definition": "bảo vệ"
+        },
+        {
+          "word": "sarán",
+          "definition": "thú"
+        },
+        {
+          "word": "arưih",
+          "definition": "rừng"
+        }
+      ],
+      "chips": [
+        "Bảo",
+        "vệ",
+        "thú",
+        "rừng",
+        "Cả",
+        "ơn",
+        "tên"
+      ],
+      "solutions": [
+        [
+          "Bảo",
+          "vệ",
+          "thú",
+          "rừng"
+        ]
+      ],
+      "formattedSolution": "Bảo vệ thú rừng",
+      "id": "1f71960382a2",
+      "priority": 2,
+      "group": "477c649f63b1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Yỡt",
+      "meaningInSourceLanguage": "Nai",
+      "id": "844fbe848751",
+      "priority": 0,
+      "group": "53ae612a861a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Yỡt"
+      ],
+      "phrase": [
+        {
+          "word": "Nai",
+          "definition": "Yỡt"
+        }
+      ],
+      "id": "1fdaac88a067",
+      "priority": 1,
+      "group": "53ae612a861a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Achĩang",
+      "meaningInSourceLanguage": "Voi",
+      "id": "8a42c7932d0b",
+      "priority": 0,
+      "group": "067117990022"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Achĩang"
+      ],
+      "phrase": [
+        {
+          "word": "Voi",
+          "definition": "Achĩang"
+        }
+      ],
+      "id": "43f0c9a32af3",
+      "priority": 1,
+      "group": "067117990022"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Sako",
+      "meaningInSourceLanguage": "Lợn rừng",
+      "id": "bac0c7fc27e0",
+      "priority": 0,
+      "group": "82653dac9e0c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Sako"
+      ],
+      "phrase": [
+        {
+          "word": "Lợn",
+          "definition": "(Lợn)\nAlik"
+        },
+        {
+          "word": "rừng",
+          "definition": "Sarứng\narưih, kuruang"
+        }
+      ],
+      "id": "c6795b25bb35",
+      "priority": 1,
+      "group": "82653dac9e0c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Chớm",
+      "meaningInSourceLanguage": "Chim",
+      "id": "c3b1067e39c6",
+      "priority": 0,
+      "group": "0af524065718"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Chớm"
+      ],
+      "phrase": [
+        {
+          "word": "Chim",
+          "definition": "Chớm"
+        }
+      ],
+      "id": "7623b1a563c5",
+      "priority": 1,
+      "group": "0af524065718"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Plĩng",
+      "meaningInSourceLanguage": "Chim ri",
+      "id": "13376fec7928",
+      "priority": 0,
+      "group": "778fba10d5c7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Plĩng"
+      ],
+      "phrase": [
+        {
+          "word": "Chim",
+          "definition": "Chớm"
+        },
+        {
+          "word": "ri",
+          "definition": "(ri)"
+        }
+      ],
+      "id": "61534ff90908",
+      "priority": 1,
+      "group": "778fba10d5c7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Chap",
+      "meaningInSourceLanguage": "Chim sẻ",
+      "id": "68feea34a2aa",
+      "priority": 0,
+      "group": "732775bb954a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Chap"
+      ],
+      "phrase": [
+        {
+          "word": "Chim",
+          "definition": "Chớm"
+        },
+        {
+          "word": "sẻ",
+          "definition": "(sẻ)"
+        }
+      ],
+      "id": "d803110bd05d",
+      "priority": 1,
+      "group": "732775bb954a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Riak",
+      "meaningInSourceLanguage": "Chim công",
+      "id": "402926e2cf55",
+      "priority": 0,
+      "group": "fdbc5b5d99b9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Riak"
+      ],
+      "phrase": [
+        {
+          "word": "Chim",
+          "definition": "Chớm"
+        },
+        {
+          "word": "công",
+          "definition": "(Công)"
+        }
+      ],
+      "id": "bcfeb4da8914",
+      "priority": 1,
+      "group": "fdbc5b5d99b9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Mễu kuruang",
+      "meaningInSourceLanguage": "Mèo rừng",
+      "id": "3d73de70226b",
+      "priority": 0,
+      "group": "808ea5f0720a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Mễu kuruang"
+      ],
+      "phrase": [
+        {
+          "word": "Mèo",
+          "definition": "(Mèo)\nMễu"
+        },
+        {
+          "word": "rừng",
+          "definition": "Sarứng\narưih, kuruang"
+        }
+      ],
+      "id": "f96dea45f4e2",
+      "priority": 1,
+      "group": "808ea5f0720a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Ntruôi kruang",
+      "meaningInSourceLanguage": "Gà rừng",
+      "id": "27a467688814",
+      "priority": 0,
+      "group": "ca4b41d44a95"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Ntruôi kruang"
+      ],
+      "phrase": [
+        {
+          "word": "Gà",
+          "definition": "(Gà)\nNtruôi"
+        },
+        {
+          "word": "rừng",
+          "definition": "Sarứng\narưih, kuruang"
+        }
+      ],
+      "id": "a65842745fd5",
+      "priority": 1,
+      "group": "ca4b41d44a95"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Sarán arưih",
+      "meaningInSourceLanguage": "Thú rừng",
+      "id": "f3bdf2f766da",
+      "priority": 0,
+      "group": "13ab15afc754"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Sarán arưih"
+      ],
+      "phrase": [
+        {
+          "word": "Thú",
+          "definition": "(thú)"
+        },
+        {
+          "word": "rừng",
+          "definition": "Sarứng\narưih, kuruang"
+        }
+      ],
+      "id": "e589201076b6",
+      "priority": 1,
+      "group": "13ab15afc754"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Rurơăh",
+      "meaningInSourceLanguage": "Săn thú",
+      "id": "bd2c969ca8de",
+      "priority": 0,
+      "group": "77ed467125aa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Rurơăh"
+      ],
+      "phrase": [
+        {
+          "word": "Săn",
+          "definition": "Rurơăh"
+        },
+        {
+          "word": "thú",
+          "definition": "(thú)"
+        }
+      ],
+      "id": "e9e18abfdd36",
+      "priority": 1,
+      "group": "77ed467125aa"
+    }
+  ]
+}
