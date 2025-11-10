@@ -81,7 +81,7 @@
   },
   "modules": [
     {
-      "title": "Cơ bản (Basics)",
+      "title": "Cơ bản",
       "skills": [
         {
           "summary": [
@@ -102,9 +102,9 @@
             "Mũ sễm taku",
             "Sa-ỡn"
           ],
-          "practiceHref": "loi-chao-greetings",
+          "practiceHref": "loi-chao",
           "id": "569673478a3d",
-          "title": "Lời chào (Greetings)",
+          "title": "Lời chào",
           "levels": 4
         },
         {
@@ -127,15 +127,15 @@
             "Kứq la TaHan",
             "Nay la nơau"
           ],
-          "practiceHref": "gioi-thieu-introductions",
+          "practiceHref": "gioi-thieu",
           "id": "38c2ea1c36d2",
-          "title": "Giới thiệu (Introductions)",
+          "title": "Giới thiệu",
           "levels": 4
         }
       ]
     },
     {
-      "title": "Gia đình (Family)",
+      "title": "Gia đình",
       "skills": [
         {
           "summary": [
@@ -160,9 +160,9 @@
             "Kon klúng ai la kon mansễm",
             "Ai ruaiq"
           ],
-          "practiceHref": "thanh-vien-gia-dinh-family-members",
+          "practiceHref": "thanh-vien-gia-dinh",
           "id": "d7279e4777cd",
-          "title": "Thành viên gia đình (Family Members)",
+          "title": "Thành viên gia đình",
           "levels": 4
         },
         {
@@ -183,15 +183,15 @@
             "Kũai sayỡr",
             "Ku náq"
           ],
-          "practiceHref": "con-nguoi-people",
+          "practiceHref": "con-nguoi",
           "id": "379dca1c8ae9",
-          "title": "Con người (People)",
+          "title": "Con người",
           "levels": 3
         }
       ]
     },
     {
-      "title": "Số đếm (Numbers)",
+      "title": "Số đếm",
       "skills": [
         {
           "summary": [
@@ -210,9 +210,9 @@
             "Bữn pái chứt lapái náq",
             "Bữn bar chứt bar náq"
           ],
-          "practiceHref": "so-co-ban-basic-numbers",
+          "practiceHref": "so-co-ban",
           "id": "e859eeaa5871",
-          "title": "Số cơ bản (Basic Numbers)",
+          "title": "Số cơ bản",
           "levels": 3
         },
         {
@@ -230,15 +230,15 @@
             "Mu kulám bar chứt ngin",
             "Dống kứq bữn tứp náq"
           ],
-          "practiceHref": "dem-counting",
+          "practiceHref": "dem",
           "id": "e7c150774a40",
-          "title": "Đếm (Counting)",
+          "title": "Đếm",
           "levels": 3
         }
       ]
     },
     {
-      "title": "Động vật (Animals)",
+      "title": "Động vật",
       "skills": [
         {
           "summary": [
@@ -257,9 +257,9 @@
             "Kuaq alik",
             "Bán mantán"
           ],
-          "practiceHref": "dong-vat-nha-domestic-animals",
+          "practiceHref": "dong-vat-nha",
           "id": "c097516da9d5",
-          "title": "Động vật nhà (Domestic Animals)",
+          "title": "Động vật nhà",
           "levels": 3
         },
         {
@@ -279,15 +279,15 @@
             "Rơăh pánh sarán arưih",
             "Kariaq sarán arưih"
           ],
-          "practiceHref": "dong-vat-rung-wild-animals",
+          "practiceHref": "dong-vat-rung",
           "id": "27a92ea694cb",
-          "title": "Động vật rừng (Wild Animals)",
+          "title": "Động vật rừng",
           "levels": 3
         }
       ]
     },
     {
-      "title": "Ăn uống (Food & Drink)",
+      "title": "Ăn uống",
       "skills": [
         {
           "summary": [
@@ -307,9 +307,9 @@
             "Cha dỗi saréh",
             "Ít ta ngan cha đôi"
           ],
-          "practiceHref": "thuc-an-co-ban-basic-food",
+          "practiceHref": "thuc-an-co-ban",
           "id": "62f74c5e3db9",
-          "title": "Thức ăn cơ bản (Basic Food)",
+          "title": "Thức ăn cơ bản",
           "levels": 3
         },
         {
@@ -326,9 +326,9 @@
             "Nnhăq",
             "Aluang cha pasâi"
           ],
-          "practiceHref": "hoa-qua-fruits",
+          "practiceHref": "hoa-qua",
           "id": "d0bba2699bff",
-          "title": "Hoa quả (Fruits)",
+          "title": "Hoa quả",
           "levels": 3
         },
         {
@@ -345,15 +345,15 @@
             "Yớt dỡq bráh",
             "Ít ta ngan"
           ],
-          "practiceHref": "do-uong-drinks",
+          "practiceHref": "do-uong",
           "id": "76a6c8df6b2b",
-          "title": "Đồ uống (Drinks)",
+          "title": "Đồ uống",
           "levels": 3
         }
       ]
     },
     {
-      "title": "Thiên nhiên (Nature)",
+      "title": "Thiên nhiên",
       "skills": [
         {
           "summary": [
@@ -375,9 +375,9 @@
             "Chu kóh",
             "Tâng dũal"
           ],
-          "practiceHref": "phong-canh-landscape",
+          "practiceHref": "phong-canh",
           "id": "75e952736a7f",
-          "title": "Phong cảnh (Landscape)",
+          "title": "Phong cảnh",
           "levels": 4
         },
         {
@@ -398,9 +398,9 @@
             "Palơang phũak",
             "Klơan kuyal"
           ],
-          "practiceHref": "thoi-tiet-weather",
+          "practiceHref": "thoi-tiet",
           "id": "f7ee2ecbddc1",
-          "title": "Thời tiết (Weather)",
+          "title": "Thời tiết",
           "levels": 3
         },
         {
@@ -419,15 +419,15 @@
             "Chuchóh sarnóh",
             "Sima aluang"
           ],
-          "practiceHref": "cay-coi-plants",
+          "practiceHref": "cay-coi",
           "id": "0beaa60946f0",
-          "title": "Cây cối (Plants)",
+          "title": "Cây cối",
           "levels": 3
         }
       ]
     },
     {
-      "title": "Sinh hoạt hàng ngày (Daily Life)",
+      "title": "Sinh hoạt hàng ngày",
       "skills": [
         {
           "summary": [
@@ -452,9 +452,9 @@
             "Chu dống",
             "Pỡq lơăh dỗng"
           ],
-          "practiceHref": "hoat-dong-hang-ngay-daily-activities",
+          "practiceHref": "hoat-dong-hang-ngay",
           "id": "82e89e72288d",
-          "title": "Hoạt động hàng ngày (Daily Activities)",
+          "title": "Hoạt động hàng ngày",
           "levels": 4
         },
         {
@@ -478,9 +478,9 @@
             "Mut riên saráq",
             "Rasa klống ariên"
           ],
-          "practiceHref": "o-truong-at-school",
+          "practiceHref": "o-truong",
           "id": "4873b8184638",
-          "title": "Ở trường (At School)",
+          "title": "Ở trường",
           "levels": 4
         }
       ]
